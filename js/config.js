@@ -3,18 +3,43 @@ var respecConfig = {
   useLabel: true,
   license: "cc0",
   specStatus: "WV",
-  specType: "HR",
-  pubDomain: "dk",
-  shortName: "template",
-  publishDate: "2023-01-31",
-  publishVersion: "0.0.1",
-  title: "Template",
+  specType: "PR",
+  pubDomain: "API",
+  shortName: "Logboek_Juridisch",
+  publishDate: "2024-09-25",
+  publishVersion: "0.1.0",
+  title: "Juridisch Beleidskader - Logboek Dataverwerking",
   // previousPublishVersion: "(none)",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
       {
-        name: "Logius Standaarden",
+        name: "Vedran Bilanovic",
+        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+      },
+      {
+        name: "Eelco Hotting",
+        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+      },
+      {
+        name: "Jeroen Mulder",
+        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+      },
+      {
+        name: "Pieter Teekens",
+        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+      },
+      {
+        name: "Nil Barua",
+        company: "Logius",
+        companyURL: "https://github.com/Logius-standaarden",
+      },
+      {
+        name: "Martin van der Plas",
         company: "Logius",
         companyURL: "https://github.com/Logius-standaarden",
       }
@@ -22,12 +47,17 @@ var respecConfig = {
   authors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        name: "Wouter Diephuis",
+        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+      },
+      {
+        name: "Mirian van Ansem",
+        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader",
 
 
   // Create PDF and link to file in header (optional):

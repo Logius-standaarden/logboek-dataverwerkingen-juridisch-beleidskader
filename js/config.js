@@ -1,7 +1,6 @@
 var respecConfig = {
   useLogo: true,
   useLabel: true,
-  license: "cc0",
   specStatus: "WV",
   specType: "PR",
   pubDomain: "api",

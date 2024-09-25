@@ -14,17 +14,17 @@ var respecConfig = {
     [
       {
         name: "Vedran Bilanovic",
-        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        company: "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Eelco Hotting",
-        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        company: "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Jeroen Mulder",
-        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        company: "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
@@ -47,12 +47,12 @@ var respecConfig = {
     [
       {
         name: "Wouter Diephuis",
-        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        company: "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       },
       {
         name: "Mirian van Ansem",
-        company: "Ministerie van Binnelandse Zaken en Koninkrijksrelaties",
+        company: "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       }
     ],

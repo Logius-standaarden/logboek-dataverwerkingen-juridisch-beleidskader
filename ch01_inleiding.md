@@ -1,9 +1,5 @@
 # Inleiding
 
-<p class="note" title="Hoofdstukken toevoegen">
-Dit hoofdstuk is toegevoegd met `class="informative"` in `config.js`.
-</p>
-
 Dit hoofdstuk is een inleiding op de verantwoording die de overheid heeft opgesteld ten behoeve van  de Logboek Dataverwerkingen standaard. Er wordt toegelicht hoe de standaard vanuit het denken over verantwoording is opgebouwd. Het idee is dat het Logboek Dataverwerkingen een basis biedt om te zorgen dat de overheid precies de gegevens logt die zij nodig heeft om verantwoording af te leggen over haar taken. Niet meer, maar ook niet minder. En om te zorgen dat organisaties gegevens zodanig loggen dat zij zich niet alleen over een eigen handelen kunnen verantwoorden, maar ook over hun gezamenlijk handelen als “de overheid”.
 
 ## Scope van dit verantwoordingsdocument 

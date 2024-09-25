@@ -4,7 +4,7 @@ var respecConfig = {
   license: "cc0",
   specStatus: "WV",
   specType: "PR",
-  pubDomain: "API",
+  pubDomain: "api",
   shortName: "Logboek_Juridisch",
   publishDate: "2024-09-25",
   publishVersion: "0.1.0",

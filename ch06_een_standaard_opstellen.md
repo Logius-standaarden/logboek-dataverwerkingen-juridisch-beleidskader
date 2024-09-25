@@ -13,7 +13,7 @@ Standaardiseren betekent dat bezien moet worden welke afspraken voor elke organi
 De informatie die een organisatie verwerkt, en waarvoor moet worden gelogd ten behoeve van verantwoording, verschilt ook. De grote gemene deler zit dus niet in het voorschrijven van specifieke gegevens die moeten worden gelogd, het doel waarvoor moet worden gelogd, of de termijn waarop moet worden gelogd.
 
 Wat echter voor elke organisatie op dezelfde wijze kan plaatsvinden, los van de taak of het doel, is de wijze waarop verwerkingen ten aanzien van gegevens worden vastgelegd (het feit dat er een verwerking heeft plaatsgevonden), ten behoeve van onderlinge relateerbaarheid, zowel binnen als buiten de organisatiegrenzen.
- 
+
 ### Baseline voor logging voor organisaties
 
 De standaard dient daarom interoperabiliteit van logging van dataverwerkingen te realiseren, door voor een aantal loghandelingen de koppelvlakken en werkwijze voor te schrijven. Daarmee wordt de basis gelegd voor een uniforme wijze van logging door verschillende systemen in de organisatie, die relateerbaar is. 
@@ -22,7 +22,7 @@ De standaard dient voorschriften te bevatten over het vastleggen van logs, over 
 
 Op deze manier is de logging zelf “neutraal” (doel en toepassing maakt voor de logging en relateerbaarheid niet uit). De logging maakt het echter wel mogelijk om voor verschillende doelen of toepassingen te worden ingezet.
 
-Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op  de standaard op basis van de specifieke behoefte die zij heeft. Op deze manierkan een organisatie de eigen behoefte aan logging  “op maat inrichten”.
+Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op  de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier kan een organisatie de eigen behoefte aan logging  “op maat inrichten”.
 
 ## Logging van informatie-uitwisseling
 
@@ -40,9 +40,9 @@ Het is echter mogelijk om, als een organisatie dat wil, door middel van extensie
 
 Om de hiervoor besproken uitgangspunten – eenduidige wijze van logging, scope van logging en onderlinge relateerbaarheid van logging – te bereiken, zullen functionele afspraken gemaakt moeten worden. Door de functionele logging tot het niveau van relateerbaarheid te beperken betekent het ook dat de standaard in de basis deze aspecten dient te adresseren. 
 
-Dit houdt in dat voor logging afspraken moeten worden gemaakt over de identificatie van transacties en/of mutaties (deze moeten functioneel herkenbaar of afgebakend zijn om als generieke basis voor logging te kunnen dienen). 
+Dit houdt in dat voor logging afspraken moeten worden gemaakt over de identificatie van transacties en/of mutaties (deze moeten functioneel herkenbaar of afgebakend zijn om als generieke basis voor logging te kunnen dienen).
 
-Ook moeten afspraken worden gemaakt over het karakter van transacties , zodat dit voor systemen (ook over organisaties heen) herkenbaar is.
+Ook moeten afspraken worden gemaakt over het karakter van transacties, zodat dit voor systemen (ook over organisaties heen) herkenbaar is.
 
 Verder moet de relatie met eerdere en onderliggende transacties of mutaties duidelijk zijn. Dat zorgt ervoor dat de transactie in de juiste context en onder de juiste verantwoordelijkheid geplaatst kan worden. Ook moet een referentienummer worden toegekend voor koppeling tussen verschillende organisaties.
 

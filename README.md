@@ -16,4 +16,4 @@ De Logboek Dataverwerkingen standaard bestaat uit de volgende documenten:
 
 1. de Normatieve standaard - link
 2. de informatieve inleiding, scope en context - link
-3. het Juridische Beleidskader  - link (dit document)
+3. het Juridische Beleidskader  - [link](https://logius-standaarden.github.io/publicatie/api/Logboek_Juridisch/) (dit document)

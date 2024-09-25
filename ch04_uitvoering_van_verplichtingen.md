@@ -30,12 +30,12 @@ De informatie die een verwerkingsverantwoordelijke moet aanleveren op basis van 
 
 Een verwerkingsverantwoordelijke is verplicht een betrokkene te informeren over wat ze doet met de persoonsgegevens van betrokkene.
 
-*Gegevens direct afkomstig van betrokkene zelf (art. 13 AVG)*
+**Gegevens direct afkomstig van betrokkene zelf (art. 13 AVG)**  
 Als de gegevens van betrokkene zelf afkomstig zijn, dan moet de informatie worden gegeven voordat de betrokkene de gegevens verstrekt. De verwerkingsverantwoordelijke moet kunnen aantonen dat een betrokkene actief is geïnformeerd. De informatieplicht geldt niet in het geval dat de betrokkene al op de hoogte is van alle informatie. Dit moet een organisatie zeker weten om zich hierop te mogen beroepen en om dat te kunnen aantonen, moet de organisatie dit vastleggen.
 
 Als de persoonsgegevens niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsgegevens vandaan komen.
 
-*Gegevens niet direct afkomstig van betrokkene (art. 14 AVG)*
+**Gegevens niet direct afkomstig van betrokkene (art. 14 AVG)**  
 Als de gegevens niet afkomstig zijn van de betrokkene zelf, maar van een ander(e organisatie), dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de gegevens zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsgegevens zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de gegevens aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsgegevens voor het eerst worden verstrekt.
 
 Ook hiervoor geldt dat de verwerkingsverantwoordelijke dit moet kunnen aantonen, en dus vastleggen.
@@ -62,15 +62,14 @@ Dit correctierecht is van groot belang in het kader van het herstel van dienstve
 
 ### Beperkingen op informatieplichten
 
-*Zwaar(der)wegende algemene belangen*
+**Zwaar(der)wegende algemene belangen**  
 De rechten van betrokkenen gelden niet als er een zwaarwegend belang is om niet te informeren, bijvoorbeeld om strafbare feiten te voorkomen of om de vrijheden van anderen te beschermen. Dit is mogelijk als wordt voldaan aan een van de uitzonderingen uit artikel 41 UAVG. Dit betreft situaties waarin (kort samengevat) nationale/openbare veiligheid of de opsporing van strafbare feiten zwaarder moet wegen. 
 
 Om te kunnen weten of er (mogelijk) sprake is van een algemeen belang dat zwaarder moet wegen dan het belang van de betrokkene op informatie, dient de verwerkingsverantwoordelijke dit te kunnen achterhalen. Dit houdt in dat de situatie waarin daar mogelijk sprake van kan zijn, zoals verstrekking van gegevens aan bijvoorbeeld een opsporingsinstanties, voor de verwerkingsverantwoordelijke herleidbaar moet zijn. Dit betekent dat dit op enige manier moet zijn vastgelegd.
 
 Ook moet de verwerkingsverantwoordelijke kunnen vaststellen of er – bijvoorbeeld door tijdsverloop - nog wel reden is om de beperking op informatie te handhaven, of dat het belang niet meer aan de orde is (bijvoorbeeld als een strafrechtelijk onderzoek is afgerond).
 
-Zwaar(der) wegende belangen van betrokkene of rechten van anderen
-
+**Zwaar(der) wegende belangen van betrokkene of rechten van anderen**  
 Het kan voorkomen dat persoonsgegevens van een betrokkene, als deze ter inzage worden aangeboden, ook informatie over een ander persoon (een derde) bevat, en deze derde daardoor in zijn recht of vrijheid kan worden aangetast, bijvoorbeeld in het geval van informatie over een verblijfplaats. Het kan dan in voorkomende gevallen noodzakelijk zijn om informatie dan niet aan een betrokkene ter inzage te bieden.
 
 Echter, om deze afweging te kunnen maken zal nodig zijn dat is vastgelegd of daarvan sprake zou kunnen zijn. Dit is bijvoorbeeld het geval als informatie is verstrekt aan of verkregen van instanties die zich bezighouden met de uitvoering of het waarborgen van beschermende maatregelen.

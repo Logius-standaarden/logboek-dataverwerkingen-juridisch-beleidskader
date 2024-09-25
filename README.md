@@ -12,7 +12,7 @@ Het project Logboek Dataverwerkingen (voorheen: Verwerkingenlogging) maakt deel 
 
 ## Overzicht
 
-De Logboek Dataverwerkingen standaard berstaat uit de volgende documenten
+De Logboek Dataverwerkingen standaard bestaat uit de volgende documenten:
 
 1. de Normatieve standaard - link
 2. de informatieve inleiding, scope en context - link

@@ -7,10 +7,10 @@ var respecConfig = {
   pubDomain: "api",
   shortName: "Logboek_Juridisch",
   publishDate: "2024-09-25",
-  publishVersion: "0.1.0",
+  publishVersion: "0.8.2",
   title: "Juridisch Beleidskader - Logboek Dataverwerking",
   // previousPublishVersion: "(none)",
-  content: {"ch01": "informative", "ch02": "", "mermaid": ""},
+  // content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
       {
@@ -64,7 +64,7 @@ var respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "template.pdf",
+          uri: "Juridisch_Beleidskader-Logboek_Dataverwerking.pdf",
       },
   ],
   postProcess: [window.respecMermaid.createFigures]

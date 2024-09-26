@@ -4,13 +4,15 @@ Dit hoofdstuk is een inleiding op de verantwoording die de overheid heeft opgest
 
 ## Scope van dit verantwoordingsdocument 
 
-Dit document beschrijft de wijze waarop de overheid zich moet verantwoorden in brede zin en de informatie die daarvoor beschikbaar moet zijn. De standaard beoogt – initieel – niet alle aspecten te adresseren, maar biedt wel de basis om te zorgen dat **eenduidigheid en relateerbaarheid** van informatie geborgd is. Deze aspecten bepalen de scope van dit document.
+Dit document beschrijft de wijze waarop de overheid zich moet verantwoorden in brede zin en de informatie die daarvoor beschikbaar moet zijn. De standaard beoogt – initieel – niet alle aspecten te adresseren, maar biedt wel de basis om te zorgen dat **eenduidigheid en relateerbaarheid** van (log)informatie geborgd is. Deze aspecten bepalen de scope van dit document.
 
-Dit document en - de standaard – staan daarin (bewust) neutraal zijn ten opzichte de termijnen die gelden voor het bewaren van logging. Deze termijnen kunnen en zullen afhankelijk van taak en doel waarvoor zij beschikbaar moeten blijven, verschillen. Dit document gaat hierop daarom niet in.
+Dit document en - de standaard – staan daarin (bewust) neutraal ten opzichte de termijnen die gelden voor het bewaren van logging. Deze termijnen kunnen en zullen verschillen afhankelijk van taak en doel waarvoor zij beschikbaar moeten blijven. Dit document gaat hierop daarom niet in. De standaard biedt wel een manier om hiermee om te gaan (profiel).
 
 Dit geldt bijvoorbeeld ook voor het bewaren van gegevens in het kader van de archiefwet. De logging die voorhanden is kan daarvoor gebruikt worden, maar dit document heeft geen oordeel over de vraag óf gegevens in het kader van de archiefwet bewaard dienen te blijven, noch voor de termijn daarvan.
 
 Omdat het document neutraal staat ten opzichte van de doelen waarvoor de logging wordt benut, zijn ook eventuele maatregelen als gevolg van specifiek gebruik, bijvoorbeeld gelimiteerde toegang bij monitoring / soc) of extra beveiligingsmaatregelen op de logging buiten de scope.
+
+In de het laatste hoofdstuk van dit document is het beleid voor de standaard Logboek Dataverwerkingen opgenomen in de vorm van ‘leidende principes’. Hiermee kunnen gebruikers binnen de context van hun specifieke situatie de bedoeling van de standaard interpreteren en toepassen.
 
 ## De overheid moet zich verantwoorden over de uitvoering van haar taken
 

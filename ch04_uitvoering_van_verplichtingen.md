@@ -72,7 +72,7 @@ Ook moet de verwerkingsverantwoordelijke kunnen vaststellen of er – bijvoorbee
 **Zwaar(der) wegende belangen van betrokkene of rechten van anderen**  
 Het kan voorkomen dat persoonsgegevens van een betrokkene, als deze ter inzage worden aangeboden, ook informatie over een ander persoon (een derde) bevat, en deze derde daardoor in zijn recht of vrijheid kan worden aangetast, bijvoorbeeld in het geval van informatie over een verblijfplaats. Het kan dan in voorkomende gevallen noodzakelijk zijn om informatie dan niet aan een betrokkene ter inzage te bieden.
 
-Echter, om deze afweging te kunnen maken zal nodig zijn dat is vastgelegd of daarvan sprake zou kunnen zijn. Dit is bijvoorbeeld het geval als informatie is verstrekt aan of verkregen van instanties die zich bezighouden met de uitvoering of het waarborgen van beschermende maatregelen.
+Echter, om deze afweging te kunnen maken zal nodig zijn dat is vastgelegd of daarvan sprake zou kunnen zijn. Dit is bijvoorbeeld het geval als informatie is verstrekt aan of verkregen is van instanties die zich bezighouden met de uitvoering of het waarborgen van beschermende maatregelen.
 
 ### Inbreuken op persoonsgegevens (datalekken) en melding
 

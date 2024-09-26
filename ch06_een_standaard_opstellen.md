@@ -22,7 +22,7 @@ De standaard dient voorschriften te bevatten over het vastleggen van logs, over 
 
 Op deze manier is de logging zelf “neutraal” (doel en toepassing maakt voor de logging en relateerbaarheid niet uit). De logging maakt het echter wel mogelijk om voor verschillende doelen of toepassingen te worden ingezet.
 
-Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op  de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier kan een organisatie de eigen behoefte aan logging  “op maat inrichten”.
+Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op  de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier Dit kan een organisatie de eigen behoefte aan logging doen door een zogeheten extensie op de standaard te maken. Organisaties kunnen er zelf voor kiezen de standaard “op maat inrichten”. Organisaties en sectoren die dit doen moeten deze extensie conform het beheerproces van de standaard laten vaststellen. Dit ter voorkoming van dialecten binnen de standaard en mogelijkheden tot breder gebruik.
 
 ## Logging van informatie-uitwisseling
 
@@ -42,7 +42,7 @@ Om de hiervoor besproken uitgangspunten – eenduidige wijze van logging, scope 
 
 Dit houdt in dat voor logging afspraken moeten worden gemaakt over de identificatie van transacties en/of mutaties (deze moeten functioneel herkenbaar of afgebakend zijn om als generieke basis voor logging te kunnen dienen).
 
-Ook moeten afspraken worden gemaakt over het karakter van transacties, zodat dit voor systemen (ook over organisaties heen) herkenbaar is.
+Ook moeten afspraken worden gemaakt over het karakter van transacties (Naam), zodat dit voor systemen (ook over organisaties heen) herkenbaar is.
 
 Verder moet de relatie met eerdere en onderliggende transacties of mutaties duidelijk zijn. Dat zorgt ervoor dat de transactie in de juiste context en onder de juiste verantwoordelijkheid geplaatst kan worden. Ook moet een referentienummer worden toegekend voor koppeling tussen verschillende organisaties.
 

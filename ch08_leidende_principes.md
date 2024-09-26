@@ -1,4 +1,4 @@
-# beleid
+# Beleidskader
 
 Leidende principes bij gebruik en inrichting van de standaard
 
@@ -17,15 +17,10 @@ Leidende principes bij gebruik en inrichting van de standaard
 
 ## Wettelijke informatieverplichtingen
 
-5. De standaard Logboek Dataverwerkingen is ondersteunend aan een aantal wettelijke informatieverplichtingen, zoals:
-
-- de zorgvuldigheidsverplichting en het motiveringsbeginsel uit de AWB
-- het recht op informatie, het recht op inzage, het recht op rectificatie en het recht op gegevenswissing uit de AVG
-
-De organisatie borgt dat de standaard optimaal ingericht wordt ten behoeve van deze informatieverplichtingen.
-
+5. De organisatie borgt dat de standaard Logboek Dataverwerkingen optimaal ingericht wordt ten behoeve van ondersteuning van aan een aantal wettelijke informatieverplichtingen, zoals:
+    - de zorgvuldigheidsverplichting en het motiveringsbeginsel uit de AWB  
+    - het recht op informatie, het recht op inzage, het recht op rectificatie en het recht op gegevenswissing uit de AVG  
 6. Persoonsgegevens vastleggen enkel ten behoeve van het loggen is niet toegestaan op basis van de AVG.
-
 7. De standaard Logboek Dataverwerking dient zodanig ingericht te worden dat deze voldoet aan de inhoudelijke loggingsverplichtingen als benoemd in de BIO (of hierop volgende wetgeving).
 
 ## Zwaarder wegende belangen

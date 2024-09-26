@@ -24,11 +24,11 @@ Om het mogelijk te maken dat “overheidsbreed” verantwoording kan worden afge
 
 ### Verantwoordingsplicht
 
-Overheden zullen zich in eerste instantie over de uitvoering van hun eigen taken moeten verantwoorden. Dat betekent dat zij moeten kunnen aantonen welke (geautomatiseerde) activiteiten zijn hebben verricht, en dat ook hebben vastgelegd. Dat gaat ook over de vraag hoe concrete beslissing zijn genomen. Het gaat zowel over welke informatie is gebruikt, hoe deze informatie is gebruikt, en tot welke beslissingen of acties dat heeft geleid.
+Overheden zullen zich in eerste instantie over de uitvoering van hun eigen taken moeten verantwoorden. Dat betekent dat zij moeten kunnen aantonen welke (geautomatiseerde) activiteiten zij hebben verricht, en dat ook hebben vastgelegd. Dat gaat ook over de vraag hoe concrete beslissing zijn genomen. Het gaat zowel over welke informatie is gebruikt, hoe deze informatie is gebruikt, en tot welke beslissingen of acties dat heeft geleid.
 
 ## Tussenconclusie
 
-Overheden hebben verschillende taken en te maken met verschillende bestuurlijke inrichtingen. Voor de taken moet verschillende informatie worden verwerkt en kunnen verschillende verantwoordingsverplichtingen gelden. 
+Overheden hebben verschillende taken en verschillende bestuurlijke inrichtingen. Voor de taken moet verschillende informatie worden verwerkt en kunnen verschillende verantwoordingsverplichtingen gelden.
 
 Dat maakt dat organisaties hun processen verschillend “op maat” zullen inrichten. Het resultaat is dat overheidsorganisaties in alle soorten en maten bestaan. 
 

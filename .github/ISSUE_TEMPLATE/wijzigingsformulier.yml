@@ -1,7 +1,7 @@
 name: Wijzigingsformulier
-description: Stel een (inhoudelijke) wijziging voor op de Digikoppeling standaard. Voor een tekstueele wijziging op de documentatie bestaat een ander formulier.
+description: Stel een (inhoudelijke) wijziging voor op de standaard. Voor een tekstueele wijziging op de documentatie bestaat een ander formulier.
 title: "RFC ..."
-labels: ["Standaard: digikoppeling", "Type: wijziging"]
+labels: ["Standaard: Logboek_dataverwerkingen", "Type: wijziging"]
 body:
   - type: textarea
     id: omschrijving

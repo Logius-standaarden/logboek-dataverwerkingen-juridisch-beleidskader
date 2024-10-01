@@ -1,6 +1,10 @@
 # Logboek Dataverwerkingen
 
-Deze repository bevat de publicatie van het Juridisch beleidskader van de Logboek Dataverwerkingen standaard.
+## Deze standaard is in ontwikkeling 
+
+- De laatste ontwikkelingen staan in de - branch [develop](https://github.com/Logius-standaarden/logboek-dataverwerkingen/tree/develop)
+- De laatste versie van de standaard online lezen - [ReSpec publicatie](https://logius-standaarden.github.io/logboek-dataverwerkingen/)
+- Meedoen aan de discussie en ontwikkeling kan via - [Mattermost Digilab omgeving](https://digilab.overheid.nl/chat/verwerkingenlogging)
 
 ## Inleiding
 
@@ -10,10 +14,19 @@ Het project Logboek Dataverwerkingen (voorheen: Verwerkingenlogging) maakt deel 
 
 > bron: https://digilab.overheid.nl/projecten/logboek-dataverwerkingen/
 
+## Doel
+
+De standaard Logboek Dataverwerkingen beschrijft een manier om technisch interoperabele functionaliteit voor het loggen van dataverwerkingen te implementeren, door voor de volgende functionaliteit de interface en het gedrag voor te schrijven:
+
+- het wegschrijven van logs van dataverwerkingen
+- het aan elkaar relateren van logs van dataverwerkingen
+- het aan elkaar relateren van dataverwerkingen over de grenzen van systemen
+
+
 ## Overzicht
 
 De Logboek Dataverwerkingen standaard bestaat uit de volgende documenten:
 
-1. de Normatieve standaard - link
-2. de informatieve inleiding, scope en context - link
+1. de Normatieve standaard - [link](https://logius-standaarden.github.io/logboek-dataverwerkingen/)
+2. de Informatieve inleiding, scope en context - link
 3. het Juridische Beleidskader  - [link](https://logius-standaarden.github.io/publicatie/api/Logboek_Juridisch/) (dit document)

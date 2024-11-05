@@ -29,4 +29,4 @@ Zwaarder wegende belangen:
 
 Aansluiting bij reguliere processen:
 
-9. Beschouw de gecreëerde logfile als persoonsgegevens en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan beveiliging, datalekken, correspondentie, inzage, correctie, aansluiting op de BIO).
+9. Beschouw de gecreëerde logfile als persoonsgegevens en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan beveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie, aansluiting op de BIO).

@@ -8,8 +8,10 @@ Het project Logboek Dataverwerkingen (voorheen: Verwerkingenlogging) maakt deel 
 
 ## Verwijzingen
 
-De Logboek Dataverwerkingen standaard bestaat uit de volgende drie documenten:
+De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documenten:
 
-1. de Normatieve standaard 
-2. de informatieve inleiding, scope en context 
-3. het Juridische Beleidskader
+| Beschrijving van het document           | Gepubliceerde versie                  | Werk versie                             | Repository                                                   |
+| --------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| 1. De LDV Normatieve Standaard | - | [Logboek dataverwerkingen (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen) |
+| 2. De Algemene Inleiding | - | [De Algemene Inleiding (werkversie)](https://logius-standaarden.github.io/publicatie/api/Logboek_Algemeen/)|[logboek-dataverwerkingen_Inleiding](https://github.com/Logius-standaarden/logboek-dataverwerkingen_Inleiding)|
+| 3. het Juridische Beleidskader | - |[Juridisch Beleidskader (werkversie)](https://logius-standaarden.github.io/publicatie/api/Logboek_Juridisch/)|[logboek-dataverwerkingen_Juridisch-beleidskader](https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader/)|

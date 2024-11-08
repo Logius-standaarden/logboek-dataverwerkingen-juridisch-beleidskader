@@ -32,7 +32,7 @@ Omdat dataverwerkingen kunnen of zullen plaatsvinden voor meerdere taken (contex
 
 ## Standaard als basis voor verantwoording: logging is “neutraal”
 
-Op deze wijze wordt door de standaard geborgd dat de dataverwerkingen worden gelogd zonder dat relevant is in welke context of voor welk doel dat gebeurt (de wijze van logging is “neutraal”). 
+Op deze wijze wordt door de standaard geborgd dat de dataverwerkingen worden gelogd zonder dat relevant is in welke context of voor welk doel dat gebeurt (de wijze van logging is “neutraal”).
 
 Echter op het moment dat doelen, context en onderlinge samenhang van belang is kan een verband worden gelegd en wordt de logging betekenisvol, bijvoorbeeld om verantwoording af te leggen over een specifieke handeling die is uitgevoerd in het kader van een taak door één of meerdere overheidsorganisaties (basale usecase).
 
@@ -46,7 +46,7 @@ Organisaties en sectoren die een extensie maken, moeten deze extensie conform he
 
 ## Profielen: beperkingen en verplichtingen in het gebruik van de standaard
 
-De standaard zorgt ervoor dat eenduidige relaties gelegd kunnen worden tussen dataverwerkingen. De standaard legt daar in de basis geen beperkingen of aanvullingen aan op, en ook niet aan de tijdsduur waarbinnen de relaties moeten kunnen worden gelegd (bewaartermijn). Door middel van profielen kunnen dergelijke aanvullingen wel gemaakt worden, bijvoorbeeld door extensies, aanvullende eisen, of bewaartermijnen. Dit kan binnen een organisatie of binnen een groep van organisaties, bijvoorbeeld een sector die op een bepaalde wijze met elkaar samenwerking en afspraken wil maken. 
+De standaard zorgt ervoor dat eenduidige relaties gelegd kunnen worden tussen dataverwerkingen. De standaard legt daar in de basis geen beperkingen of aanvullingen aan op, en ook niet aan de tijdsduur waarbinnen de relaties moeten kunnen worden gelegd (bewaartermijn). Door middel van profielen kunnen dergelijke aanvullingen wel gemaakt worden, bijvoorbeeld door extensies, aanvullende eisen, of bewaartermijnen. Dit kan binnen een organisatie of binnen een groep van organisaties, bijvoorbeeld een sector die op een bepaalde wijze met elkaar samenwerking en afspraken wil maken.
 
 ## Integriteit van logging
 

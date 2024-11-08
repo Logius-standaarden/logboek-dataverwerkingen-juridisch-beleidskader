@@ -56,7 +56,7 @@ var respecConfig = {
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       }
     ],
-  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader",
+  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen",
 
 
   // Create PDF and link to file in header (optional):

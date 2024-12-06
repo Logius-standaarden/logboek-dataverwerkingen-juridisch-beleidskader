@@ -2,15 +2,15 @@
 
 ## Overheidsbreed verantwoorden is samenwerken
 
-Organisaties hebben informatie nodig van elkaar om zichzelf te kunnen verantwoorden.
+Organisaties hebben informatie nodig van elkaar om zichzelf te kunnen verantwoorden. 
 
-In de eerste plaats dienen zij zelf vast te leggen welke handelingen zij verrichten bij het nemen van besluiten of het uitvoeren van feitelijke handelingen.
+In de eerste plaats dienen zij zelf vast te leggen welke handelingen zij verrichten bij het nemen van besluiten of het uitvoeren van feitelijke handelingen. 
 
 Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de “verstrekkende” organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de “gegevensvraag” en de “gegevenslevering” als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
 
 ## Informatieverplichtingen
 
-In het voorgaande is besproken welke gegevens organisaties mogen verwerken om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de gegevens waarover zij mogen beschikken.
+In het voorgaande is besproken welke gegevens organisaties mogen verwerken om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de gegevens waarover zij mogen beschikken. 
 
 Ten aanzien van de gegevens waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsgegevens vormen een belangrijke categorie binnen de totale set aan gegevens die voorhanden zijn. Op deze gegevens is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop gegevens worden gelogd, worden hieronder besproken.
 
@@ -33,10 +33,10 @@ Een verwerkingsverantwoordelijke is verplicht een betrokkene te informeren over 
 **Gegevens direct afkomstig van betrokkene zelf (art. 13 AVG)**  
 Als de gegevens van betrokkene zelf afkomstig zijn, dan moet de informatie worden gegeven voordat de betrokkene de gegevens verstrekt. De verwerkingsverantwoordelijke moet kunnen aantonen dat een betrokkene actief is geïnformeerd. De informatieplicht geldt niet in het geval dat de betrokkene al op de hoogte is van alle informatie. Dit moet een organisatie zeker weten om zich hierop te mogen beroepen en om dat te kunnen aantonen, moet de organisatie dit vastleggen.
 
-Als de persoonsgegevens niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsgegevens vandaan komen.
-
 **Gegevens niet direct afkomstig van betrokkene (art. 14 AVG)**  
-Als de gegevens niet afkomstig zijn van de betrokkene zelf, maar van een ander(e organisatie), dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de gegevens zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsgegevens zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de gegevens aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsgegevens voor het eerst worden verstrekt.
+Als de gegevens niet afkomstig zijn van de betrokkene zelf, maar van een andere organisatie, dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de gegevens zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsgegevens zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de gegevens aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsgegevens voor het eerst worden verstrekt.
+
+Als de persoonsgegevens niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsgegevens vandaan komen.
 
 Ook hiervoor geldt dat de verwerkingsverantwoordelijke dit moet kunnen aantonen, en dus vastleggen.
 
@@ -78,7 +78,7 @@ Echter, om deze afweging te kunnen maken zal nodig zijn dat is vastgelegd of daa
 
 Als er sprake is van een datalek, dan moet dat bij de Autoriteit Persoonsgegevens (AP) gemeld worden. In sommige gevallen moet ook informatie verstrekt worden aan betrokkenen.
 
-Bij een datalek gaat het om toegang tot persoonsgegevens zonder dat dit mag of zonder dat dit de bedoeling is. Waarbij de oorzaak een inbreuk op de beveiliging van deze gegevens is. Ook het ongewenst vernietigen, verliezen, wijzigen of verstrekken van persoonsgegevens door zo’n inbreuk valt onder een datalek.
+Bij een datalek gaat het om toegang tot persoonsgegevens zonder dat dit mag of zonder dat dit de bedoeling is, waarbij de oorzaak een inbreuk op de beveiliging van deze gegevens is. Ook het ongewenst vernietigen, verliezen, wijzigen of verstrekken van persoonsgegevens door zo’n inbreuk valt onder een datalek.
 
 De verplichtingen ten aanzien van een datalek veronderstellen dat een organisatie maatregelen heeft genomen om te kunnen constateren dat een datalek heeft plaatsgevonden, wanneer dat heeft plaatsgevonden en welke (onrechtmatige) verwerkingen van persoonsgegevens dat tot gevolg heeft gehad. Dit betekent dat het doorbreken van beveiligingsmaatregelen dient te worden gelogd, en ook de verwerkingshandelingen die ten aanzien van de persoonsgegevens hebben plaatsgevonden. Organisaties dienen maatregelen te treffen om ingeval van problemen deze zo snel mogelijk te kunnen herkennen, en in het verlengde daarvan, ook te kunnen herstellen. Ook dit vergt dat wordt vastgelegd welke gegevens op welk moment zijn verwerkt, ontvangen, verstrekt, et cetera. Op deze wijze kunnen organisaties in gevallen waarbij voor betrokkene mogelijk ook schade kan ontstaan, daarmee rekening houden en zo nodig maatregelen treffen.
 
@@ -90,7 +90,7 @@ Bij het verkeer tussen bestuursorganen en burgers, vormen de algemene beginselen
 
 ### Zorgvuldige voorbereiding en belangenafweging
 
-Bestuursorganen dienen besluiten zorgvuldig voor te bereiden. Bij de voorbereiding van besluiten worden vaak (persoons)gegevens van burgers en bedrijven gebruikt. Verder zijn die gegevens vaak afkomstig van veel verschillende instanties. Bij de aanvraag van een parkeervergunning komen er bijvoorbeeld gegevens over de wijk waarin je woont uit de BRP en komen er gegevens over de auto die je bezit uit het kentekenregister. Ook moeten bestuursorganen zorgvuldig alle betrokken belangen afwegen. Hierbij mogen de gevolgen voor een specifieke persoon (of groep) niet onevenredig zijn. Ook om deze afweging zorgvuldig te kunnen maken, verwerkt de overheid (persoons)gegevens. 
+Bestuursorganen dienen besluiten zorgvuldig voor te bereiden. Bij de voorbereiding van besluiten worden vaak (persoons)gegevens van burgers en bedrijven gebruikt. Verder zijn die gegevens vaak afkomstig van veel verschillende instanties. Bij de aanvraag van een parkeervergunning komen er bijvoorbeeld gegevens over de wijk waarin je woont uit de BRP en komen er gegevens over de auto die je bezit uit het kentekenregister. Ook moeten bestuursorganen zorgvuldig alle betrokken belangen afwegen. Hierbij mogen de gevolgen voor een specifieke persoon (of groep) niet onevenredig zijn. Ook om deze afweging zorgvuldig te kunnen maken, verwerkt de overheid (persoons)gegevens.
 
 ### Motiveringsbeginsel
 
@@ -104,11 +104,11 @@ In de context van verwerkingenlogging is het van belang om de hierboven genoemde
 
 ### Baseline Informatiebeveiliging Overheid (BIO)
 
-De BIO legt overheden diverse beveiligingsverplichtingen op, om de informatie te beschermen die wordt verwerkt. Informatie die wordt verwerkt om de taken, verantwoordelijkheden en informatieverplichtingen zoals in het voorgaande besproken goed te kunnen uitvoeren. 
+De BIO legt overheden diverse beveiligingsverplichtingen op, om de informatie te beschermen die wordt verwerkt. Informatie die wordt verwerkt om de taken, verantwoordelijkheden en informatieverplichtingen zoals in het voorgaande besproken goed te kunnen uitvoeren.
 
-De BIO verplicht om bepaalde gebeurtenissen in informatiesystemen vast te leggen (par. 12.4). Daarbij gaat het om logbestanden van gebeurtenissen die gebruikersactiviteiten, uitzonderingen daarop en informatiebeveiligingsgebeurtenissen (beveiligingsincidenten) vastleggen. 
+De BIO verplicht om bepaalde gebeurtenissen in informatiesystemen vast te leggen (par. 12.4). Daarbij gaat het om logbestanden van gebeurtenissen die gebruikersactiviteiten, uitzonderingen daarop en informatiebeveiligingsgebeurtenissen (beveiligingsincidenten) vastleggen.
 
-Dit betreft systeemgebeurtenissen, maar deze zullen ook, op applicatieniveau, direct te relateren zijn aan verslaglegging die overheden in het kader van hun verantwoording (ook) moeten vastleggen. 
+Dit betreft systeemgebeurtenissen, maar deze zullen ook, op applicatieniveau, direct te relateren zijn aan verslaglegging die overheden in het kader van hun verantwoording (ook) moeten vastleggen. De standaard dekt in principe niet de BIO logging af, maar de standaard kan hierbij wel helpen.
 
 De BIO bepaalt de informatie die een logregel ten minste moet bevatten, waaronder de gebeurtenis, de informatie die nodig is om incidenten te herleiden tot natuurlijke personen, het resultaat van de gebeurtenis en het tijdstip.
 
@@ -116,7 +116,7 @@ Deze informatie is nodig om in geval van problemen, deze tijdig te kunnen herken
 
 ### Toegangsbeveiliging en beheer
 
-Toegangsbeveiliging en het beheer van toegang is een algemeen beginsel dat voor alle gegevensverzamelingen en gegevensuitwisseling cruciaal is. Het vormt de basis van het vertrouwen in de overheid en het spreekt voor zich dat dezelfde strenge wetten, regels, standaarden en normen die van toepassing zijn op de gegevens zelf en de uitwisseling van gegevens ook van toepassing zijn op de logs (en back-ups) die er zijn van de gegevens.
+Toegangsbeveiliging en het beheer van toegang is een algemeen beginsel dat voor alle gegevensverzamelingen en gegevensuitwisseling cruciaal is. Het vormt de basis van het vertrouwen in de overheid en het spreekt voor zich dat dezelfde strenge wetten, regels, standaarden en normen die van toepassing zijn op de gegevens zelf en de uitwisseling van gegevens ook van toepassing zijn op de logs (en back-ups) die er zijn van de gegevens. Ook hiervoor geldt dat de standaard in principe niet de BIO logging afdekt, maar hierbij wel kan helpen.
 
 ## Verantwoordingsbehoeften van toezichthouders
 
@@ -136,4 +136,4 @@ Hoewel dergelijke verantwoordingsdoelen op het eerste gezicht niet direct een re
 
 Logging die wordt vastgelegd kan vele verschillende doelen dienen, zoals de invulling van specifieke informatieverschaffing aan burgers, of de verantwoording over de zorgvuldigheid van overheidshandelen.
 
-Belangrijk is dat de conceptuele invulling van afspraken over logging zodanig wordt ingericht dat zij breed toepasbaar is, maar tegelijkertijd ruimte laat om specifieke invulling (“aanbouw”) van afspraken op specifieke doelen te ondersteunen. 
+Belangrijk is dat de conceptuele invulling van afspraken over logging zodanig wordt ingericht dat zij breed toepasbaar is, maar tegelijkertijd ruimte laat om specifieke invulling (“aanbouw”) van afspraken op specifieke doelen te ondersteunen.

@@ -22,13 +22,13 @@ De standaard dient voorschriften te bevatten over het vastleggen van logs, over 
 
 Op deze manier is de logging zelf “neutraal” (doel en toepassing maakt voor de logging en relateerbaarheid niet uit). De logging maakt het echter wel mogelijk om voor verschillende doelen of toepassingen te worden ingezet.
 
-Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op  de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier Dit kan een organisatie de eigen behoefte aan logging doen door een zogeheten extensie op de standaard te maken. Organisaties kunnen er zelf voor kiezen de standaard “op maat inrichten”. Organisaties en sectoren die dit doen moeten deze extensie conform het beheerproces van de standaard laten vaststellen. Dit ter voorkoming van dialecten binnen de standaard en mogelijkheden tot breder gebruik.
+Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier kan een organisatie de eigen behoefte aan logging  “op maat inrichten”. Organisaties en sectoren die dit doen moeten deze extensie conform het beheerproces van de standaard laten vaststellen. Dit ter voorkoming van dialecten binnen de standaard en mogelijkheden tot breder gebruik.
 
 ## Logging van informatie-uitwisseling
 
 Zoals hiervoor is besproken kunnen dataverwerkingen ten behoeve van taken verschillende verantwoordelijkheden overstijgen (en dus organisatie-overstijgend zijn). Doordat elke organisatie op basis van de standaard op dezelfde wijze én binnen de reikwijdte van de eigen organisatie logt, vallen er in de logging geen gaten en is de onderlinge verbondenheid in verantwoordelijkheden geborgd.
 
-Immers vallen onder de verantwoordelijkheid om te loggen tevens de ontvangst van gegevens van andere overheidsorganisaties, of de gegevens die zij aan andere organisaties geleverd hebben.. Daardoor is de informatie-uitwisseling als geheel gelogd en wordt voorkomen dat “dubbele logging” ontstaat. Dat brengt naast doelmatigheid ook een beperking van de kans op fouten of strijdige logging met zich mee.
+Immers vallen onder de verantwoordelijkheid om te loggen tevens de ontvangst van gegevens van andere overheidsorganisaties, of de gegevens die zij aan andere organisaties geleverd hebben. Daardoor is de informatie-uitwisseling als geheel gelogd en wordt voorkomen dat “dubbele logging” ontstaat. Dat brengt naast doelmatigheid ook een beperking van de kans op fouten of strijdige logging met zich mee.
 
 ## Ketenlogging
 
@@ -41,8 +41,6 @@ Het is echter mogelijk om, als een organisatie dat wil, door middel van extensie
 Om de hiervoor besproken uitgangspunten – eenduidige wijze van logging, scope van logging en onderlinge relateerbaarheid van logging – te bereiken, zullen functionele afspraken gemaakt moeten worden. Door de functionele logging tot het niveau van relateerbaarheid te beperken betekent het ook dat de standaard in de basis deze aspecten dient te adresseren. 
 
 Dit houdt in dat voor logging afspraken moeten worden gemaakt over de identificatie van transacties en/of mutaties (deze moeten functioneel herkenbaar of afgebakend zijn om als generieke basis voor logging te kunnen dienen).
-
-Ook moeten afspraken worden gemaakt over het karakter van transacties (Naam), zodat dit voor systemen (ook over organisaties heen) herkenbaar is.
 
 Verder moet de relatie met eerdere en onderliggende transacties of mutaties duidelijk zijn. Dat zorgt ervoor dat de transactie in de juiste context en onder de juiste verantwoordelijkheid geplaatst kan worden. Ook moet een referentienummer worden toegekend voor koppeling tussen verschillende organisaties.
 

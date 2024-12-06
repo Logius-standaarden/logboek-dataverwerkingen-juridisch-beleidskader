@@ -18,7 +18,9 @@ De hier beschreven kaders dragen tevens bij aan de benodigde interoperabiliteit 
 
 ## Soorten logging
 
-Met logging in het kader van dit document wordt de logging bedoeld die nodig is om verantwoording af te leggen over de processen en beslissingen die de overheid neemt (functionele logging). Organisaties zullen daarnaast ook logging hebben die de technische werking van systemen of de werking van applicaties . betreft. Deze typen logging kunnen overlap vertonen met de functionele logging, maar dat hoeft niet zo te zijn.
+Met logging in het kader van dit document wordt de logging bedoeld die nodig is om verantwoording af te leggen over de processen en beslissingen die de overheid neemt (functionele logging). Organisaties zullen daarnaast ook logging hebben die de technische werking van systemen of de werking van applicaties betreft. Deze typen logging kunnen overlap vertonen met de functionele logging, maar dat hoeft niet zo te zijn.
+
+> Als in dit document gesproken wordt over applicatie wordt verwezen naar de definitie van het woord "applicatie" in de standaard Logboek Dataverwerkingen.
 
 ## Tussenconclusie
 

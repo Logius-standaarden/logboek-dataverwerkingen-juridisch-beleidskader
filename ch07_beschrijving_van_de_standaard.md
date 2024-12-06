@@ -16,13 +16,13 @@ De standaard is ontwikkeld vanuit de behoefte om als overheid eenduidige verantw
 
 ## Beschrijving van systematiek van processen in organisaties
 
-Organisaties hebben taken toebedeeld gekregen. Om deze taken uit te voeren is het nodig om (persoons)gegevens te verwerken.
+Organisaties hebben taken toebedeeld gekregen. Om deze taken uit te voeren is het nodig om (persoons)gegevens te verwerken. 
 
 De standaard schrijft voor dat deze per taak als “verwerkingsactiviteit” worden onderkend. Om de verschillende taken uit te voeren heeft een organisatie in de regel meerdere verwerkingsactiviteiten onderkend.
 
-De standaard schrijft voor dat deze verwerkingsactiviteiten in een “register” moeten worden opgenomen. Daarin wordt onder meer het doel van de verwerkingen opgenomen, zoals dit op grond van de art. 30 AVG voor verwerkingen van persoonsgegevens al verplicht is. Het register in het kader van de standaard beoogt een bredere reikwijdte dan persoonsgegevens.
+De standaard schrijft voor dat deze verwerkingsactiviteiten in een “register” moeten worden opgenomen. Daarin wordt onder meer het doel van de verwerkingen opgenomen, zoals dit bijvoorbeeld op grond van de AVG voor verwerkingen van persoonsgegevens al verplicht is. Registers in het kader van de standaard beoogen een bredere reikwijdte dan persoonsgegevens.
 
-Vervolgens schrijft de standaard voor dat binnen de onderkende verwerkingsactiviteiten “dataverwerkingen” worden gelogd. Dit gebeurt door iedere applicatie die een dataverwerking uitvoert op gestandaardiseerde manier een logregel te laten vastleggen in een Logboek dataverwerkingen.
+Vervolgens schrijft de standaard voor dat binnen de onderkende verwerkingsactiviteiten “dataverwerkingen” worden gelogd. Dit gebeurt door iedere applicatie die een dataverwerking uitvoert, op gestandaardiseerde manier een logregel te laten vastleggen in een Logboek dataverwerkingen.
 
 De handelingen die worden gelogd kunnen alle handelingen betreffen die met gegevens plaatsvinden.
 
@@ -38,7 +38,7 @@ Echter op het moment dat doelen, context en onderlinge samenhang van belang is k
 
 ## Extensies: Het gebruik van logging voor verschillende doeleinden
 
-Op basis van de algemene relateerbaarheid die de standaard realiseert over de logging van verschillende dataverwerkingen, is het - naast de algemene verantwoording die op basis daarvan kan worden afgelegd - mogelijk om diverse andere doeleinden en processen te faciliteren. De standaard maakt dat mogelijk door extensies, toe te staan waarmee specifieke functionaliteit wordt toegevoegd aan de standaard.
+Op basis van de algemene relateerbaarheid die de standaard realiseert over de logging van verschillende dataverwerkingen, is het - naast de algemene verantwoording die op basis daarvan kan worden afgelegd - mogelijk om diverse andere doeleinden en processen te faciliteren. De standaard maakt dat mogelijk door extensies toe te staan waarmee specifieke functionaliteit wordt toegevoegd aan de standaard.
 
 Een voorbeeld daarvan is de “Extensie Betrokkenen”. Daarmee kan meer precies worden uitgewerkt hoe de identiteit van een betrokkene wordt gerelateerd aan een dataverwerking. Dat maakt het mogelijk om de koppeling te maken tussen de verwerkingen van persoonsgegevens, waarmee bijvoorbeeld inzageverzoeken geautomatiseerd mogelijk gemaakt kunnen worden. Een ander voorbeeld is de “Extensie Inzage”, waarmee de wijze waarop op basis van de logs op een gestandaardiseerde manier de verwerkingen van gegevens over een persoon ter inzage kunnen worden aangeboden (interface).
 
@@ -50,7 +50,7 @@ De standaard zorgt ervoor dat eenduidige relaties gelegd kunnen worden tussen da
 
 ## Integriteit van logging
 
-Een belangrijk aspect bij verantwoording is dat op de informatie kan worden vertrouwd. Dit betekent dat de wijze waarop logging wordt weggeschreven en bewaard zodanig is dat deze beschermd is en dat eventuele manipulaties van de logging kunnen worden aangetoond. Deze onweerlegbaarheid is belangrijk voor de bewijskracht van de logging. Als dit generiek is geregeld hoeven organisaties niet separaat meer aan te tonen of te regelen dat de logging ook daadwerkelijk klopt.
+Een belangrijk aspect bij verantwoording is dat op de informatie kan worden vertrouwd. Dit betekent dat de wijze waarop logging wordt weggeschreven en bewaard zodanig is dat deze beschermd is en dat eventuele manipulaties van de logging kunnen worden aangetoond. Deze onweerlegbaarheid is belangrijk voor de bewijskracht van de logging. Als dit generiek is geregeld hoeven organisaties niet separaat meer aan te tonen of te regelen dat de logging ook daadwerkelijk klopt. Dit aspect zou als extensie kunnen worden toegevoegd.
 
 ## Tussenconclusie
 

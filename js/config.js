@@ -4,7 +4,7 @@ var respecConfig = {
   specStatus: "WV",
   specType: "PR",
   pubDomain: "api",
-  shortName: "Logboek_Juridisch",
+  shortName: "logboek_juridisch",
   publishDate: "2024-09-25",
   publishVersion: "0.8.2",
   title: "Juridisch Beleidskader - Logboek Dataverwerking",

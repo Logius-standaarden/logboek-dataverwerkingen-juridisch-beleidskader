@@ -8,6 +8,9 @@ var respecConfig = {
   publishDate: "2024-09-25",
   publishVersion: "0.8.2",
   title: "Juridisch Beleidskader - Logboek Dataverwerking",
+
+  edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/",
+  
   // previousPublishVersion: "(none)",
   // content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:

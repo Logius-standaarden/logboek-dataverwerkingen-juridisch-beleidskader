@@ -10,7 +10,7 @@ Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een ande
 
 ## Informatieverplichtingen
 
-In het voorgaande is besproken welke gegevens organisaties mogen verwerken om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de gegevens waarover zij mogen beschikken. 
+In het voorgaande is besproken welke gegevens organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de gegevens waarover zij mogen beschikken.
 
 Ten aanzien van de gegevens waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsgegevens vormen een belangrijke categorie binnen de totale set aan gegevens die voorhanden zijn. Op deze gegevens is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop gegevens worden gelogd, worden hieronder besproken.
 

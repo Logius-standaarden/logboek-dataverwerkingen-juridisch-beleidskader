@@ -24,7 +24,7 @@ Om het mogelijk te maken dat “overheidsbreed” verantwoording kan worden afge
 
 ### Verantwoordingsplicht
 
-Overheden zullen zich in eerste instantie over de uitvoering van hun eigen taken moeten verantwoorden. Dat betekent dat zij moeten kunnen aantonen welke (geautomatiseerde) activiteiten zij hebben verricht, en dat ook hebben vastgelegd. Dat gaat ook over de vraag hoe concrete beslissingen zijn genomen. Het gaat zowel over welke informatie is gebruikt, hoe deze informatie is gebruikt, en tot welke beslissingen of acties dat heeft geleid.
+Overheden zullen zich in eerste instantie over de uitvoering van hun eigen taken moeten verantwoorden. Dat betekent dat zij moeten kunnen aantonen welke (geautomatiseerde) activiteiten zij hebben verricht, en dat ook hebben vastgelegd. Dat gaat ook over de vraag hoe concrete beslissingen zijn genomen. Het gaat zowel over welke informatie is gebruikt, hoe deze informatie is gebruikt, en tot welke beslissingen of acties dat heeft geleid. Ook moeten overheden transparant zijn over de ontvangers van persoonsgegevens en kunnen verantwoorden aan wie de persoonsgegevens zijn verstrekt.
 
 ## Tussenconclusie
 

@@ -34,7 +34,7 @@ Ook van belang is de Algemene wet bestuursrecht (hierna: Awb), waarin onder meer
 
 Tevens dient de overheid te verantwoorden dat de informatie waarmee zij werkt om haar taken te vervullen, goed is beveiligd. Regels over informatiebeveiliging worden gesteld in de Baseline Informatiebeveiliging Overheid en op basis van de implementatie van de NIS2-richtlijn. Tevens gelden de regels van de AI -en datagovernance verorderingen.
 
-Omdat de overheid bij de invulling van haar taken persoonsgegevens verwerkt, geldt dat zij de zorgvuldige verwerking van persoonsgegevens op basis van de Algemene Verordening Gegevensbescherming (hierna: AVG) dient te verantwoorden. 
+Omdat de overheid bij de invulling van haar taken persoonsgegevens verwerkt, geldt dat zij de zorgvuldige en transparante verwerking van persoonsgegevens op basis van de Algemene Verordening Gegevensbescherming (hierna: AVG) dient te verantwoorden en de uitoefening van de rechten van betrokkenen ten aanzien van hun persoonsgegevens dient te waarborgen.
 
 Deze verplichtingen richten zich op de bedrijfsvoering van de individuele overheden (want daar wordt de informatie verwerkt) en de wijze waarop zij met elkaar samenwerken in het publieke belang.
 
@@ -61,7 +61,7 @@ Dit geldt op alle niveaus van informatieverwerking. Het dient inzichtelijk te zi
 Wettelijk is geregeld welke informatie – zeker daar waar het persoonsgegevens betreft – overheden voor de uitvoering van hun taken mogen verwerken.
 Welke informatie dat is, zal per overheidsorganisatie verschillen. Immers, hun taken verschillen, en de informatie om deze taken uit te voeren ook.
 
-Iedere overheidsorganisatie dient, op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de opgedragen taak, te verantwoorden dat informatie in overeenstemming met deze grondslagen is verwerkt. Ook dient de overheid aan te tonen dat voldaan is aan verplichtingen die gelden, bijvoorbeeld ten aanzien van de verwerking of beveiliging van persoonsgegevens en de vertrouwelijkheid van bedrijfsinformatie.
+Deze zin zou ik aanpassen (in rood weghalen, in blauw toevoegen): “Iedere overheidsorganisatie dient, te verantwoorden dat informatie binnen de grenzen van het toepasselijke wettelijk kader is verwerkt. Voor de verwerking van persoonsgegevens geldt dat hiervoor een geldige grondslag aanwezig is. Ook dient de overheid aan te tonen dat voldaan is aan verplichtingen die gelden, bijvoorbeeld ten aanzien van de verwerking of beveiliging van persoonsgegevens en de vertrouwelijkheid van bedrijfsinformatie.
 
 ## Belang van goede verantwoording en verbetering daarvan
 

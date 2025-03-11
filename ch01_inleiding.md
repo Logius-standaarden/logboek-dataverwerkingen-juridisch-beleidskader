@@ -1,6 +1,6 @@
 # Inleiding
 
-Dit Juridisch beleidskader biedt het overzicht van de (juridische) verantwoording die de overheid over haar handelen moet afleggen en is opgesteld ten behoeve van de Logboek Dataverwerkingen standaard. Er wordt toegelicht hoe de standaard vanuit het denken over verantwoording is opgebouwd. Het doel daarvan is dat het Logboek Dataverwerkingen een basis biedt om te zorgen dat de overheid precies de gegevens logt die zij nodig heeft om verantwoording af te leggen over haar taken. Niet meer, maar ook niet minder. En om te zorgen dat organisaties gegevens zodanig loggen dat zij zich niet alleen over een eigen handelen kunnen verantwoorden, maar ook over hun gezamenlijk handelen als “de overheid”.
+Dit Juridisch beleidskader biedt het overzicht van de (juridische) verantwoording die de overheid over haar handelen moet afleggen en is opgesteld ten behoeve van de Logboek Dataverwerkingen standaard. Er wordt toegelicht hoe de standaard vanuit het denken over verantwoording is opgebouwd. Het doel daarvan is dat het Logboek Dataverwerkingen een basis biedt om te zorgen dat de overheid precies de data logt die zij nodig heeft om verantwoording af te leggen over haar taken. Niet meer, maar ook niet minder. En om te zorgen dat organisaties data zodanig loggen dat zij zich niet alleen over een eigen handelen kunnen verantwoorden, maar ook over hun gezamenlijk handelen als “de overheid”.
 
 ## Scope van dit verantwoordingsdocument
 
@@ -8,7 +8,7 @@ Dit document beschrijft de wijze waarop de overheid zich moet verantwoorden in b
 
 Dit document en - de standaard – staan daarin (bewust) neutraal ten opzichte de termijnen die gelden voor het bewaren van logging. Deze termijnen kunnen en zullen verschillen afhankelijk van taak en doel waarvoor zij beschikbaar moeten blijven. Dit document gaat hierop daarom niet in. De standaard biedt wel een manier om hiermee om te gaan (profiel).
 
-Dit geldt bijvoorbeeld ook voor het bewaren van gegevens in het kader van de archiefwet. De logging die voorhanden is kan daarvoor gebruikt worden, maar dit document heeft geen oordeel over de vraag óf gegevens in het kader van de archiefwet bewaard dienen te blijven, noch voor de termijn daarvan.
+Dit geldt bijvoorbeeld ook voor het bewaren van data in het kader van de archiefwet. De logging die voorhanden is kan daarvoor gebruikt worden, maar dit document heeft geen oordeel over de vraag óf data in het kader van de archiefwet bewaard dienen te blijven, noch voor de termijn daarvan.
 
 Omdat het document neutraal staat ten opzichte van de doelen waarvoor de logging wordt benut, zijn ook eventuele maatregelen als gevolg van specifiek gebruik, bijvoorbeeld gelimiteerde toegang bij monitoring / soc of extra beveiligingsmaatregelen op de logging buiten de scope.
 
@@ -34,7 +34,7 @@ Ook van belang is de Algemene wet bestuursrecht (hierna: Awb), waarin onder meer
 
 Tevens dient de overheid te verantwoorden dat de informatie waarmee zij werkt om haar taken te vervullen, goed is beveiligd. Regels over informatiebeveiliging worden gesteld in de Baseline Informatiebeveiliging Overheid en op basis van de implementatie van de NIS2-richtlijn. Tevens gelden de regels van de AI -en datagovernance verorderingen.
 
-Omdat de overheid bij de invulling van haar taken persoonsgegevens verwerkt, geldt dat zij de zorgvuldige en transparante verwerking van persoonsgegevens op basis van de Algemene Verordening Gegevensbescherming (hierna: AVG) dient te verantwoorden en de uitoefening van de rechten van betrokkenen ten aanzien van hun persoonsgegevens dient te waarborgen.
+Omdat de overheid bij de invulling van haar taken persoonsdata verwerkt, geldt dat zij de zorgvuldige en transparante verwerking van persoonsdata op basis van de Algemene Verordening Gegevensbescherming (hierna: AVG) dient te verantwoorden en de uitoefening van de rechten van betrokkenen ten aanzien van hun persoonsdata dient te waarborgen.
 
 Deze verplichtingen richten zich op de bedrijfsvoering van de individuele overheden (want daar wordt de informatie verwerkt) en de wijze waarop zij met elkaar samenwerken in het publieke belang.
 
@@ -54,11 +54,11 @@ Daarnaast is een goede informatiehuishouding van belang om burgers en bedrijven 
 
 Uit het voorgaande volgt dat, wil een overheidsorganisatie zich adequaat kunnen verantwoorden over haar taken, de informatiehuishouding op orde moet zijn en dat inzichtelijk moet zijn welke informatie zij bij de invulling van haar taken heeft gebruikt, hoe deze informatie is vergaard en hoe deze informatie bij de beslissingen is (af)gewogen.
 
-Dit geldt op alle niveaus van informatieverwerking. Het dient inzichtelijk te zijn hoe bijvoorbeeld beleidsvorming – vaak op hoofdlijnen – tot stand is gekomen. Ook is het bij individuele besluiten die gevolgen hebben voor burgers belangrijk dat voor de burger inzichtelijk is welke gegevens een overheidsorganisatie bij het besluit heeft gebruikt, hoe deze gegevens zijn gebruikt en bij welke overheidsorganisatie op welk moment deze zijn verzameld.
+Dit geldt op alle niveaus van informatieverwerking. Het dient inzichtelijk te zijn hoe bijvoorbeeld beleidsvorming – vaak op hoofdlijnen – tot stand is gekomen. Ook is het bij individuele besluiten die gevolgen hebben voor burgers belangrijk dat voor de burger inzichtelijk is welke gegevens een overheidsorganisatie bij het besluit heeft gebruikt, hoe deze data zijn gebruikt en bij welke overheidsorganisatie op welk moment deze zijn verzameld.
 
 ### Verantwoording over de rechtmatige verwerking van informatie
 
-Wettelijk is geregeld welke informatie – zeker daar waar het persoonsgegevens betreft – overheden voor de uitvoering van hun taken mogen verwerken.
+Wettelijk is geregeld welke informatie – zeker daar waar het persoonsdata betreft – overheden voor de uitvoering van hun taken mogen verwerken.
 Welke informatie dat is, zal per overheidsorganisatie verschillen. Immers, hun taken verschillen, en de informatie om deze taken uit te voeren ook.
 
 Deze zin zou ik aanpassen (in rood weghalen, in blauw toevoegen): “Iedere overheidsorganisatie dient, te verantwoorden dat informatie binnen de grenzen van het toepasselijke wettelijk kader is verwerkt. Voor de verwerking van persoonsgegevens geldt dat hiervoor een geldige grondslag aanwezig is. Ook dient de overheid aan te tonen dat voldaan is aan verplichtingen die gelden, bijvoorbeeld ten aanzien van de verwerking of beveiliging van persoonsgegevens en de vertrouwelijkheid van bedrijfsinformatie.

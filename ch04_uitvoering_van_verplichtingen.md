@@ -6,21 +6,21 @@ Organisaties hebben informatie nodig van elkaar om zichzelf te kunnen verantwoor
 
 In de eerste plaats dienen zij zelf vast te leggen welke handelingen zij verrichten bij het nemen van besluiten of het uitvoeren van feitelijke handelingen. 
 
-Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de “verstrekkende” organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de “gegevensvraag” en de “gegevenslevering” als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
+Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de “verstrekkende” organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de “datavraag” en de “datalevering” als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
 
 ## Informatieverplichtingen
 
-In het voorgaande is besproken welke gegevens organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de gegevens waarover zij mogen beschikken.
+In het voorgaande is besproken welke data organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de data waarover zij mogen beschikken.
 
-Ten aanzien van de gegevens waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsgegevens vormen een belangrijke categorie binnen de totale set aan gegevens die voorhanden zijn. Op deze gegevens is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop gegevens worden gelogd, worden hieronder besproken.
+Ten aanzien van de gegevens waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsdata vormen een belangrijke categorie binnen de totale set aan gegevens die voorhanden zijn. Op deze data is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop data worden gelogd, worden hieronder besproken.
 
 ## Informatieverplichtingen in de AVG
 
-De AVG geeft aan betrokkenen – degenen over wie de persoonsgegevens gaan - verschillende rechten in het kader van inzage en correctie. Denk hierbij aan het recht op informatie (art. 13 en 14 AVG), het recht op inzage (art. 15 AVG), het recht op rectificatie (art. 16 AVG) en het recht op gegevenswissing (art. 17 AVG).
+De AVG geeft aan betrokkenen – degenen over wie de persoonsdata gaan - verschillende rechten in het kader van inzage en correctie. Denk hierbij aan het recht op informatie (art. 13 en 14 AVG), het recht op inzage (art. 15 AVG), het recht op rectificatie (art. 16 AVG) en het recht op gegevenswissing (art. 17 AVG).
 
-Deze rechten kan de betrokkene inroepen tegenover de zogenoemde ‘verwerkingsverantwoordelijke’, dat is de organisatie die het doel en de middelen van de gegevensverwerking bepaalt.
+Deze rechten kan de betrokkene inroepen tegenover de zogenoemde ‘verwerkingsverantwoordelijke’, dat is de organisatie die het doel en de middelen van de dataverwerking bepaalt.
 
-Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop gegevens gelogd moeten worden. Belangrijke notitie is dat er geen extra gegevens mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsgegevens worden gelogd.
+Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop data gelogd moeten worden. Belangrijke notitie is dat er geen extra data mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsdata worden gelogd.
 
 ### Recht op informatie (bij verzamelen persoonsgegevens)
 

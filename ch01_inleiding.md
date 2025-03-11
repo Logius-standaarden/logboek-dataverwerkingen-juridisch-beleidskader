@@ -44,7 +44,7 @@ Naast de bovengenoemde verantwoordingsverplichtingen die voor de bedrijfsvoering
 
 ## De overheid verwerkt voor haar taken informatie
 
-Om taken te kunnen vervullen is het voor overheidsorganisaties noodzakelijk om informatie te verwerken. Informatie en de wijze waarop deze wordt gebruikt ligt daarmee aan de basis voor een goed openbaar bestuur. Het vormt een van de pijlers van de democratische rechtstaat en geeft mede vorm aan de relatie met burgers.
+Om taken te kunnen vervullen is het voor overheidsorganisaties noodzakelijk om informatie te verwerken. Informatie en de wijze waarop deze wordt gebruikt ligt daarmee aan de basis voor een goed openbaar bestuur. 
 
 Daarnaast is een goede informatiehuishouding van belang om burgers en bedrijven van betrouwbare informatie te kunnen voorzien en om als overheid efficiënt en effectief te kunnen werken.
 
@@ -54,7 +54,7 @@ Daarnaast is een goede informatiehuishouding van belang om burgers en bedrijven 
 
 Uit het voorgaande volgt dat, wil een overheidsorganisatie zich adequaat kunnen verantwoorden over haar taken, de informatiehuishouding op orde moet zijn en dat inzichtelijk moet zijn welke informatie zij bij de invulling van haar taken heeft gebruikt, hoe deze informatie is vergaard en hoe deze informatie bij de beslissingen is (af)gewogen.
 
-Dit geldt op alle niveaus van informatieverwerking. Het dient inzichtelijk te zijn hoe bijvoorbeeld beleidsvorming – vaak op hoofdlijnen – tot stand is gekomen. Ook is het bij individuele besluiten die gevolgen hebben voor burgers belangrijk dat voor de burger inzichtelijk is welke gegevens een overheidsorganisatie bij het besluit heeft gebruikt, hoe deze data zijn gebruikt en bij welke overheidsorganisatie op welk moment deze zijn verzameld.
+Dit geldt op alle niveaus van informatieverwerking. Het dient inzichtelijk te zijn hoe bijvoorbeeld beleidsvorming – vaak op hoofdlijnen – tot stand is gekomen. Ook is het bij individuele besluiten die gevolgen hebben voor burgers belangrijk dat voor de burger inzichtelijk is welke data een overheidsorganisatie bij het besluit heeft gebruikt, hoe deze data zijn gebruikt en bij welke overheidsorganisatie op welk moment deze zijn verzameld.
 
 ### Verantwoording over de rechtmatige verwerking van informatie
 
@@ -65,18 +65,18 @@ Deze zin zou ik aanpassen (in rood weghalen, in blauw toevoegen): “Iedere over
 
 ## Belang van goede verantwoording en verbetering daarvan
 
-Digitalisering maakt een efficiëntere en effectiever werkende overheid mogelijk. Dat komt door de toenemende mogelijkheden om gegevens te verwerken en onderling als overheidsorganisaties samen te werken. Dienstverlening aan burgers en bedrijven kan sneller en meer op maat plaatsvinden. 
+Digitalisering maakt een efficiëntere en effectiever werkende overheid mogelijk. Dat komt door de toenemende mogelijkheden om data te verwerken en onderling als overheidsorganisaties samen te werken. Dienstverlening aan burgers en bedrijven kan sneller en meer op maat plaatsvinden. 
 
 Aan deze mogelijkheden zit ook een andere kant, die vergt dat de overheid goed inzicht houdt – ook over organisaties heen - in hoe deze informatieverwerking en uitwisseling heeft plaatsgevonden. Dat is nodig om de steeds verder toenemende informatie-uitwisseling te kunnen verantwoorden. Maar ook om – op het moment dat zich in deze dienstverlening problemen voordoen – goed in staat te zijn om deze op te lossen. Want problemen in dienstverlening kunnen door automatisering in korte tijd ontstaan en omvangrijk worden.
 
 Een voorbeeld daarvan is de situatie rond de toeslagenproblematiek. Nadat deze problematiek is ontdekt vergt het vermoedelijk nog jaren om de gevolgen hiervan te herstellen, omdat de puzzel in het overheidshandelen niet eenduidig gelegd kan worden.
 
-Daarnaast moeten bijvoorbeeld (individuele) burgers die slachtoffer worden van fraude of misbruik van hun gegevens beter geholpen kunnen worden. Immers, problemen kunnen zeer snel uitwaaieren over verschillende overheidsorganisaties. Daarbij past dat ook snel kan worden gereageerd, dat gereconstrueerd kan worden wat er is gebeurd en dat de burgers snel en effectief geholpen kunnen worden.
+Daarnaast moeten bijvoorbeeld (individuele) burgers die slachtoffer worden van fraude of misbruik van hun data beter geholpen kunnen worden. Immers, problemen kunnen zeer snel uitwaaieren over verschillende overheidsorganisaties. Daarbij past dat ook snel kan worden gereageerd, dat gereconstrueerd kan worden wat er is gebeurd en dat de burgers snel en effectief geholpen kunnen worden.
 
 ## Tussenconclusie
 
 De overheid moet zich verantwoorden over de aan haar toegekende taken. Dat geldt niet alleen per overheidsorganisatie, maar ook voor “de overheid” als geheel.
 
-Voor de uitvoering van haar taken verwerkt de overheid informatie. De wijze waarop informatie wordt verwerkt en waarop die verwerking wordt vastgelegd, speelt daarom een belangrijke rol bij de verantwoording door overheden. Daarnaast speelt een goede vastlegging van gegevens een belangrijke rol bij het oplossen van problemen als deze zich voordoen als gevolg van informatie-uitwisseling.
+Voor de uitvoering van haar taken verwerkt de overheid informatie. De wijze waarop informatie wordt verwerkt en waarop die verwerking wordt vastgelegd, speelt daarom een belangrijke rol bij de verantwoording door overheden. Daarnaast speelt een goede vastlegging van data een belangrijke rol bij het oplossen van problemen als deze zich voordoen als gevolg van informatie-uitwisseling.
 
 Dit betekent dat de wijze waarop de verslaglegging gebeurt, bij de benodigde verantwoording moet aansluiten. De verantwoording is daarmee kaderend.

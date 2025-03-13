@@ -12,7 +12,7 @@ Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een ande
 
 In het voorgaande is besproken welke data organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de data waarover zij mogen beschikken.
 
-Ten aanzien van de data waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsdata vormen een belangrijke categorie binnen de totale set aan gegevens die voorhanden zijn. Op deze data is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop data worden gelogd, worden hieronder besproken.
+Ten aanzien van de data waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsdata vormen een belangrijke categorie binnen de totale set aan data die voorhanden zijn. Op deze data is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop data worden gelogd, worden hieronder besproken.
 
 ## Informatieverplichtingen in de AVG
 

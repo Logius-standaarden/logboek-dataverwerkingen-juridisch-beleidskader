@@ -20,7 +20,7 @@ Bij de uitvoering van hun taken zullen organisaties regelmatig gebruik maken van
 
 Dit betekent dat overheden, naast de uitvoering van de eigen taken, met regelmaat ook ondersteunend voor de taakuitvoering voor collega-overheidsorganisaties zullen zijn. Zij zullen daarbij zowel ontvanger als leverancier van informatie zijn. En dat betekent dat de wijze van hun eigen verantwoording (en logging) van belang is voor de verantwoording van andere overheidsorganisaties. Daarom is het van belang om ook afspraken te maken over de wijze waarop data aan andere overheidsorganisaties worden verstrekt, of worden ontvangen.
 
-Om deze koppeling goed te kunnen leggen, en daarmee de overheidsbrede verantwoording goed te kunnen vormgeven, is het belangrijk om afspraken te maken over de gebeurtenissen waarvoor de gegevens worden verstrekt, het tijdstip waarop dit gebeurt en de waarborgen die zijn getroffen. Overigens is dit niet alleen nodig ter verantwoording, maar ook om ingeval van problemen bij het gebruik van onjuiste data deze snel te kunnen herkennen en herstellen, ook als de problemen organisatie-overstijgend zijn.
+Om deze koppeling goed te kunnen leggen, en daarmee de overheidsbrede verantwoording goed te kunnen vormgeven, is het belangrijk om afspraken te maken over de gebeurtenissen waarvoor de data worden verstrekt, het tijdstip waarop dit gebeurt en de waarborgen die zijn getroffen. Overigens is dit niet alleen nodig ter verantwoording, maar ook om ingeval van problemen bij het gebruik van onjuiste data deze snel te kunnen herkennen en herstellen, ook als de problemen organisatie-overstijgend zijn.
 
 ## Tussenconclusie
 

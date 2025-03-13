@@ -22,37 +22,37 @@ Deze rechten kan de betrokkene inroepen tegenover de zogenoemde ‘verwerkingsve
 
 Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop data gelogd moeten worden. Belangrijke notitie is dat er geen extra data mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsdata worden gelogd.
 
-### Recht op informatie (bij verzamelen persoonsgegevens)
+### Recht op informatie (bij verzamelen persoonsdata)
 
 De informatie die een verwerkingsverantwoordelijke moet aanleveren op basis van het recht op informatie (ex. artikel 13 en 14 AVG) dient uit eigen beweging door verwerkingsverantwoordelijke te worden aangeleverd aan de betrokkene. Voor de andere rechten geldt dat deze uitgaan van een verzoek van betrokkene.
 
 ### Actieve informatieplicht (recht op informatie bij verzamelen, art. 13 en 14 AVG)
 
-Een verwerkingsverantwoordelijke is verplicht een betrokkene te informeren over wat ze doet met de persoonsgegevens van betrokkene.
+Een verwerkingsverantwoordelijke is verplicht een betrokkene te informeren over wat ze doet met de persoonsdata van betrokkene.
 
-**Gegevens direct afkomstig van betrokkene zelf (art. 13 AVG)**  
-Als de gegevens van betrokkene zelf afkomstig zijn, dan moet de informatie worden gegeven voordat de betrokkene de gegevens verstrekt. De verwerkingsverantwoordelijke moet kunnen aantonen dat een betrokkene actief is geïnformeerd. De informatieplicht geldt niet in het geval dat de betrokkene al op de hoogte is van alle informatie. Dit moet een organisatie zeker weten om zich hierop te mogen beroepen en om dat te kunnen aantonen, moet de organisatie dit vastleggen.
+**Data direct afkomstig van betrokkene zelf (art. 13 AVG)**  
+Als de data van betrokkene zelf afkomstig zijn, dan moet de informatie worden gegeven voordat de betrokkene de data verstrekt. De verwerkingsverantwoordelijke moet kunnen aantonen dat een betrokkene actief is geïnformeerd. De informatieplicht geldt niet in het geval dat de betrokkene al op de hoogte is van alle informatie. Dit moet een organisatie zeker weten om zich hierop te mogen beroepen en om dat te kunnen aantonen, moet de organisatie dit vastleggen.
 
-**Gegevens niet direct afkomstig van betrokkene (art. 14 AVG)**  
-Als de gegevens niet afkomstig zijn van de betrokkene zelf, maar van een andere organisatie, dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de gegevens zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsgegevens zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de gegevens aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsgegevens voor het eerst worden verstrekt.
+**Data niet direct afkomstig van betrokkene (art. 14 AVG)**  
+Als de data niet afkomstig zijn van de betrokkene zelf, maar van een andere organisatie, dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de data zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsdata zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de data aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsdata voor het eerst worden verstrekt.
 
-Als de persoonsgegevens niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsgegevens vandaan komen.
+Als de persoonsdata niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsdata vandaan komen.
 
 Ook hiervoor geldt dat de verwerkingsverantwoordelijke dit moet kunnen aantonen, en dus vastleggen.
 
 ### Inzagerecht (art. 15 AVG)
 
-Iedereen heeft recht op inzage in de persoonsgegevens die organisaties over hen verwerken. De verzoeker heeft bij een inzageverzoek in principe recht op alle persoonsgegevens die worden verwerkt, waaronder persoonsgegevens in registraties, maar ook persoonsgegevens in correspondentie, zoals e-mails. De overheidsorganisatie moet daarbij inzage bieden in de doelen waarvoor de gegevens worden verwerkt (de wettelijke taken), aan welke (soorten) organisaties de persoonsgegevens zijn doorgegeven, hoe gegevens verzameld zijn en lang deze worden bewaard. Ook moet de organisatie inzicht bieden in of de persoonsgegevens gebruikt worden voor automatische besluitvorming, wat de logica daarvan is en welke gevolgen dat heeft.
+Iedereen heeft recht op inzage in de persoonsdata die organisaties over hen verwerken. De verzoeker heeft bij een inzageverzoek in principe recht op alle persoonsdata die worden verwerkt, waaronder persoonsdata in registraties, maar ook persoonsdata in correspondentie, zoals e-mails. De overheidsorganisatie moet daarbij inzage bieden in de doelen waarvoor de data worden verwerkt (de wettelijke taken), aan welke (soorten) organisaties de persoonsdata zijn doorgegeven, hoe data verzameld zijn en lang deze worden bewaard. Ook moet de organisatie inzicht bieden in of de persoonsdata gebruikt worden voor automatische besluitvorming, wat de logica daarvan is en welke gevolgen dat heeft.
 
-Om dit inzicht in concrete gevallen te kunnen bieden is het nodig dat de verwerkingen van de specifieke persoonsgegevens van de betrokkenen gelogd worden. Let op: het gaat hierbij om de verwerkingen die ten aanzien van gegevens zijn uitgevoerd.
+Om dit inzicht in concrete gevallen te kunnen bieden is het nodig dat de verwerkingen van de specifieke persoonsdata van de betrokkenen gelogd worden. Let op: het gaat hierbij om de verwerkingen die ten aanzien van data zijn uitgevoerd.
 
 ### Correctierecht
 
 Een betrokkene heeft het recht om gegevens die niet (meer) kloppen te corrigeren. Ook heeft de betrokkene het recht om de gegevens aan te laten vullen wanneer deze incompleet zijn. Het gaat dus om het recht op het corrigeren van incorrecte of incomplete gegevens. 
 
-Om te kunnen vaststellen of gegevens (niet) kloppen, dient vastgesteld te zijn wat de kwaliteit van de gegevens is (welke controles zijn uitgevoerd). En indien aan de orde, wat de herkomst van de gegevens is (van welke organisaties zij de gegevens verkregen, op welk moment, en welke controles zijn gedaan). De conclusie van de vaststelling kan ook zijn dat de correctie niet wordt doorgevoerd.
+Om te kunnen vaststellen of data (niet) kloppen, dient vastgesteld te zijn wat de kwaliteit van de data is (welke controles zijn uitgevoerd). En indien aan de orde, wat de herkomst van de data is (van welke organisaties zij de gegevens verkregen, op welk moment, en welke controles zijn gedaan). De conclusie van de vaststelling kan ook zijn dat de correctie niet wordt doorgevoerd.
 
-Om dit te kunnen doen is het nodig dat de verwerkingshandelingen worden vastgelegd. Om deze wijze kunnen ook (doorwerkende) gevolgen van de onjuiste gegevens worden gecorrigeerd.
+Om dit te kunnen doen is het nodig dat de verwerkingshandelingen worden vastgelegd. Om deze wijze kunnen ook (doorwerkende) gevolgen van de onjuiste data worden gecorrigeerd.
 
 De verwerkingsverantwoordelijke moet, indien er redenen zijn om gegevens te wijzigen, ook eventuele ontvangers van de gegevens (andere organisaties waaraan de gegevens zijn verstrekt) informeren over de wijziging (kennisgevingsplicht). Om dit te kunnen doen moet de verwerkingsverantwoordelijke weten aan welke organisatie en op welk moment gegevens zijn verstrekt. Deze gegevens zullen dan ook gelogd moeten worden.
 

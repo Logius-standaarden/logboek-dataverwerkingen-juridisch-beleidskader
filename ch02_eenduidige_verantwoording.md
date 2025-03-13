@@ -12,11 +12,11 @@ Dat komt omdat overheidsorganisaties verschillende taken en verantwoordelijkhede
 
 Hoe een overheidsorganisatie is georganiseerd en zich moet verantwoorden, hangt af van de opgedragen wettelijke taken die de organisatie heeft gekregen en vaak ook van de bestuurslaag waarbinnen de organisatie is gepositioneerd (Rijks-, provinciaal, gemeentelijk of waterschapsniveau).
 
-Bij wet is nauwgezet vastgelegd wat hun verantwoordelijkheid is, welke taken daarvoor dienen te worden uitgevoerd, en meestal ook welke (persoons)gegevens daarvoor gebruikt mogen worden. Deze kadering bepaalt de wijze waarop overheden zich organiseren en hun processen vormgeven. En, in het verlengde daarvan, de processen waarover zij zich moeten verantwoorden.
+Bij wet is nauwgezet vastgelegd wat hun verantwoordelijkheid is, welke taken daarvoor dienen te worden uitgevoerd, en meestal ook welke (persoons)data daarvoor gebruikt mogen worden. Deze kadering bepaalt de wijze waarop overheden zich organiseren en hun processen vormgeven. En, in het verlengde daarvan, de processen waarover zij zich moeten verantwoorden.
 
 ### Verschillende informatieverwerkingen
 
-De verschillende verantwoordelijkheden en taken leiden tot verschillende soorten informatieverwerkingen. Welke (persoons)gegevens mogen worden verwerkt voor de realisatie van een taak, wordt bij wet vastgelegd. Immers, DUO heeft voor de verwezenlijking van de taken andere gegevens nodig dan bijvoorbeeld UWV. Welke dat zijn en waarvoor informatie mag worden gebruikt is nauwgezet vastgelegd in wet- en regelgeving. Overigens zal er voor wat betreft de informatieverwerking ook overlap zijn en zullen organisaties ook informatie van elkaar gebruiken (gegevensuitwisseling/data bij de bron).
+De verschillende verantwoordelijkheden en taken leiden tot verschillende soorten informatieverwerkingen. Welke (persoons)data mogen worden verwerkt voor de realisatie van een taak, wordt bij wet vastgelegd. Immers, DUO heeft voor de verwezenlijking van de taken andere data nodig dan bijvoorbeeld UWV. Welke dat zijn en waarvoor informatie mag worden gebruikt is nauwgezet vastgelegd in wet- en regelgeving. Overigens zal er voor wat betreft de informatieverwerking ook overlap zijn en zullen organisaties ook informatie van elkaar gebruiken (datauitwisseling/data bij de bron).
 
 ## Eenduidige verantwoording
 
@@ -24,7 +24,7 @@ Om het mogelijk te maken dat “overheidsbreed” verantwoording kan worden afge
 
 ### Verantwoordingsplicht
 
-Overheden zullen zich in eerste instantie over de uitvoering van hun eigen taken moeten verantwoorden. Dat betekent dat zij moeten kunnen aantonen welke (geautomatiseerde) activiteiten zij hebben verricht, en dat ook hebben vastgelegd. Dat gaat ook over de vraag hoe concrete beslissingen zijn genomen. Het gaat zowel over welke informatie is gebruikt, hoe deze informatie is gebruikt, en tot welke beslissingen of acties dat heeft geleid. Ook moeten overheden transparant zijn over de ontvangers van persoonsgegevens en kunnen verantwoorden aan wie de persoonsgegevens zijn verstrekt.
+Overheden zullen zich in eerste instantie over de uitvoering van hun eigen taken moeten verantwoorden. Dat betekent dat zij moeten kunnen aantonen welke (geautomatiseerde) activiteiten zij hebben verricht, en dat ook hebben vastgelegd. Dat gaat ook over de vraag hoe concrete beslissingen zijn genomen. Het gaat zowel over welke informatie is gebruikt, hoe deze informatie is gebruikt, en tot welke beslissingen of acties dat heeft geleid. Ook moeten overheden transparant zijn over de ontvangers van persoonsdata en kunnen verantwoorden aan wie de persoonsdata zijn verstrekt.
 
 ## Tussenconclusie
 

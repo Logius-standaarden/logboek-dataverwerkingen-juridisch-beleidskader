@@ -12,7 +12,7 @@ Standaardiseren betekent dat bezien moet worden welke afspraken voor elke organi
 
 De informatie die een organisatie verwerkt, en waarvoor moet worden gelogd ten behoeve van verantwoording, verschilt ook. De grote gemene deler zit dus niet in het voorschrijven van specifieke data die moeten worden gelogd, het doel waarvoor moet worden gelogd, of de termijn waarop moet worden gelogd.
 
-Wat echter voor elke organisatie op dezelfde wijze kan plaatsvinden, los van de taak of het doel, is de wijze waarop verwerkingen ten aanzien van gegevens worden vastgelegd (het feit dat er een verwerking heeft plaatsgevonden), ten behoeve van onderlinge relateerbaarheid, zowel binnen als buiten de organisatiegrenzen.
+Wat echter voor elke organisatie op dezelfde wijze kan plaatsvinden, los van de taak of het doel, is de wijze waarop verwerkingen ten aanzien van data worden vastgelegd (het feit dat er een verwerking heeft plaatsgevonden), ten behoeve van onderlinge relateerbaarheid, zowel binnen als buiten de organisatiegrenzen.
 
 ### Baseline voor logging voor organisaties
 

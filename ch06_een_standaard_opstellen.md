@@ -4,13 +4,13 @@
 
 ### Behoud van verantwoordelijkheid van elk overheidsorgaan
 
-Een belangrijk uitgangspunt is dat elke overheidsorganisatie verantwoordelijk is voor de uitvoering van haar eigen taken. Niet meer en niet minder. Dit is in de eerdere hoofdstukken ook vastgesteld. In het verlengde daarvan is het belangrijk dat dit ook voor de logging van de eigen taken wordt doorgevoerd. Organisaties loggen de gegevensverwerkingen die zij ten behoeve van zichzelf uitvoeren. Daaronder valt tevens de ontvangst van gegevens van andere overheidsorganisaties, of gegevens die zij aan andere organisaties geleverd hebben.
+Een belangrijk uitgangspunt is dat elke overheidsorganisatie verantwoordelijk is voor de uitvoering van haar eigen taken. Niet meer en niet minder. Dit is in de eerdere hoofdstukken ook vastgesteld. In het verlengde daarvan is het belangrijk dat dit ook voor de logging van de eigen taken wordt doorgevoerd. Organisaties loggen de dataverwerkingen die zij ten behoeve van zichzelf uitvoeren. Daaronder valt tevens de ontvangst van data van andere overheidsorganisaties, of data die zij aan andere organisaties geleverd hebben.
 
 ### Grote gemene deler in verplichtingen zoeken
 
 Standaardiseren betekent dat bezien moet worden welke afspraken voor elke organisatie zouden moeten gelden, en waarover het verstandig is om afspraken te maken. Zoals hiervoor beschreven heeft elke organisatie zijn eigen taak en op basis van die taak processen ingericht.
 
-De informatie die een organisatie verwerkt, en waarvoor moet worden gelogd ten behoeve van verantwoording, verschilt ook. De grote gemene deler zit dus niet in het voorschrijven van specifieke gegevens die moeten worden gelogd, het doel waarvoor moet worden gelogd, of de termijn waarop moet worden gelogd.
+De informatie die een organisatie verwerkt, en waarvoor moet worden gelogd ten behoeve van verantwoording, verschilt ook. De grote gemene deler zit dus niet in het voorschrijven van specifieke data die moeten worden gelogd, het doel waarvoor moet worden gelogd, of de termijn waarop moet worden gelogd.
 
 Wat echter voor elke organisatie op dezelfde wijze kan plaatsvinden, los van de taak of het doel, is de wijze waarop verwerkingen ten aanzien van gegevens worden vastgelegd (het feit dat er een verwerking heeft plaatsgevonden), ten behoeve van onderlinge relateerbaarheid, zowel binnen als buiten de organisatiegrenzen.
 
@@ -28,11 +28,11 @@ Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op de stan
 
 Zoals hiervoor is besproken kunnen dataverwerkingen ten behoeve van taken verschillende verantwoordelijkheden overstijgen (en dus organisatie-overstijgend zijn). Doordat elke organisatie op basis van de standaard op dezelfde wijze én binnen de reikwijdte van de eigen organisatie logt, vallen er in de logging geen gaten en is de onderlinge verbondenheid in verantwoordelijkheden geborgd.
 
-Immers vallen onder de verantwoordelijkheid om te loggen tevens de ontvangst van gegevens van andere overheidsorganisaties, of de gegevens die zij aan andere organisaties geleverd hebben. Daardoor is de informatie-uitwisseling als geheel gelogd en wordt voorkomen dat “dubbele logging” ontstaat. Dat brengt naast doelmatigheid ook een beperking van de kans op fouten of strijdige logging met zich mee.
+Immers vallen onder de verantwoordelijkheid om te loggen tevens de ontvangst van data van andere overheidsorganisaties, of de data die zij aan andere organisaties geleverd hebben. Daardoor is de informatie-uitwisseling als geheel gelogd en wordt voorkomen dat “dubbele logging” ontstaat. Dat brengt naast doelmatigheid ook een beperking van de kans op fouten of strijdige logging met zich mee.
 
 ## Ketenlogging
 
-Zoals aangegeven is de logging op basis van de afspraken “neutraal”. De logging zorgt voor uniforme vastlegging door organisaties van gegevensverwerkingen en voor onderlinge relateerbaarheid van deze verwerkingen. De logging is dus niet gebonden aan een specifieke organisatie of aan organisaties die met elkaar samenwerkingen (“ketens”).
+Zoals aangegeven is de logging op basis van de afspraken “neutraal”. De logging zorgt voor uniforme vastlegging door organisaties van dataverwerkingen en voor onderlinge relateerbaarheid van deze verwerkingen. De logging is dus niet gebonden aan een specifieke organisatie of aan organisaties die met elkaar samenwerkingen (“ketens”).
 
 Het is echter mogelijk om, als een organisatie dat wil, door middel van extensies op de standaard aanvullingen te doen op de logging, of aanvullende afspraken te maken met andere overheden waarmee specifiek wordt samengewerkt. Sectorale aanvullingen binnen “samenwerkende ketens van organisaties” zijn mogelijk bovenop de basis die de standaard legt.
 

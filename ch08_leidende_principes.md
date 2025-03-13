@@ -4,8 +4,8 @@ Leidende principes bij gebruik en inrichting van de standaard
 
 Eigen verantwoordelijkheid:
 
-1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)gegevens. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van gegevens gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is.
-2. Enkel de gegevens die voor verantwoording nodig zijn worden vastgelegd.
+1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)data. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van data gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is.
+2. Enkel de data die voor verantwoording nodig zijn worden vastgelegd.
 
 Basis + extensies:
 
@@ -13,14 +13,14 @@ Basis + extensies:
 
 Logging van informatieketens:
 
-4. Bij het loggen van de verwerking van gegevens in ketens is elke overheidsorganisatie verantwoordelijk voor haar eigen deel van de keten met als afbakening de ontvangst van gegevens van (een) ketenpartner(s) en het verstrekken van gegevens aan (een) andere ketenpartner(s) of het nemen van het besluit. Door het uniformeren van de logging kunnen gegevensvraag en gegevenslevering aan elkaar gekoppeld worden. Hierbij worden door gebruik van de standaard Logboek dataverwerkingen afspraken gemaakt over de relateerbaarheid en herkenbaarheid van transacties.
+4. Bij het loggen van de verwerking van data in ketens is elke overheidsorganisatie verantwoordelijk voor haar eigen deel van de keten met als afbakening de ontvangst van data van (een) ketenpartner(s) en het verstrekken van data aan (een) andere ketenpartner(s) of het nemen van het besluit. Door het uniformeren van de logging kunnen datavraag en datalevering aan elkaar gekoppeld worden. Hierbij worden door gebruik van de standaard Logboek dataverwerkingen afspraken gemaakt over de relateerbaarheid en herkenbaarheid van transacties.
 
 Wettelijke informatieverplichtingen:
 
 5. De organisatie borgt dat de standaard Logboek Dataverwerkingen optimaal ingericht wordt ten behoeve van ondersteuning van aan een aantal wettelijke informatieverplichtingen, zoals:
     - de zorgvuldigheidsverplichting en het motiveringsbeginsel uit de AWB  
-    - het recht op informatie, het recht op inzage, het recht op rectificatie en het recht op gegevenswissing uit de AVG  
-6. Persoonsgegevens vastleggen enkel ten behoeve van het loggen is niet toegestaan op basis van de AVG.
+    - het recht op informatie, het recht op inzage, het recht op rectificatie en het recht op datawissing uit de AVG  
+6. Persoonsdata vastleggen enkel ten behoeve van het loggen is niet toegestaan op basis van de AVG.
 7. De standaard Logboek Dataverwerking dient zodanig ingericht te worden dat deze voldoet aan de inhoudelijke loggingsverplichtingen als benoemd in de BIO (of hierop volgende wetgeving).
 
 Zwaarder wegende belangen:
@@ -29,4 +29,4 @@ Zwaarder wegende belangen:
 
 Aansluiting bij reguliere processen:
 
-9. Beschouw de gecreëerde logfile als persoonsgegevens en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan beveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie, aansluiting op de BIO).
+9. Beschouw de gecreëerde logfile als persoonsdata en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan beveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie, aansluiting op de BIO).

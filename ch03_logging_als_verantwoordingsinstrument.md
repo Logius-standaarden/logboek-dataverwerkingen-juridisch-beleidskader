@@ -2,7 +2,7 @@
 
 ## Kaders voor logging per organisatie
 
-Om zich te kunnen verantwoorden zal een organisatie inzichtelijk moeten kunnen maken dat zij de taken die zij heeft, heeft uitgevoerd in overeenstemming met de voor de betreffende organisatie geldende kaders. Er zal gereproduceerd moeten kunnen worden welk besluit op een bepaald moment is genomen, welke informatie daarvoor is gebruikt, en of deze informatie (waaronder persoonsgegevens) is gebruikt op een wijze die voldoet aan de daarvoor gestelde kaders.
+Om zich te kunnen verantwoorden zal een organisatie inzichtelijk moeten kunnen maken dat zij de taken die zij heeft, heeft uitgevoerd in overeenstemming met de voor de betreffende organisatie geldende kaders. Er zal gereproduceerd moeten kunnen worden welk besluit op een bepaald moment is genomen, welke informatie daarvoor is gebruikt, en of deze informatie (waaronder persoonsdata) is gebruikt op een wijze die voldoet aan de daarvoor gestelde kaders.
 
 Dit is noodzakelijk voor (interne) verantwoording aan bijvoorbeeld toezichthouders, en om richting burgers en bedrijven te kunnen aantonen dat besluiten zorgvuldig zijn genomen en adequaat gemotiveerd zijn.
 

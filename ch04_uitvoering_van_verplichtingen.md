@@ -6,57 +6,57 @@ Organisaties hebben informatie nodig van elkaar om zichzelf te kunnen verantwoor
 
 In de eerste plaats dienen zij zelf vast te leggen welke handelingen zij verrichten bij het nemen van besluiten of het uitvoeren van feitelijke handelingen. 
 
-Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de “verstrekkende” organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de “gegevensvraag” en de “gegevenslevering” als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
+Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de “verstrekkende” organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de “datavraag” en de “datalevering” als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
 
 ## Informatieverplichtingen
 
-In het voorgaande is besproken welke gegevens organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de gegevens waarover zij mogen beschikken.
+In het voorgaande is besproken welke data organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de data waarover zij mogen beschikken.
 
-Ten aanzien van de gegevens waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsgegevens vormen een belangrijke categorie binnen de totale set aan gegevens die voorhanden zijn. Op deze gegevens is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop gegevens worden gelogd, worden hieronder besproken.
+Ten aanzien van de data waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsdata vormen een belangrijke categorie binnen de totale set aan data die voorhanden zijn. Op deze data is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop data worden gelogd, worden hieronder besproken.
 
 ## Informatieverplichtingen in de AVG
 
-De AVG geeft aan betrokkenen – degenen over wie de persoonsgegevens gaan - verschillende rechten in het kader van inzage en correctie. Denk hierbij aan het recht op informatie (art. 13 en 14 AVG), het recht op inzage (art. 15 AVG), het recht op rectificatie (art. 16 AVG) en het recht op gegevenswissing (art. 17 AVG).
+De AVG geeft aan betrokkenen – degenen over wie de persoonsdata gaan - verschillende rechten in het kader van inzage en correctie. Denk hierbij aan het recht op informatie (art. 13 en 14 AVG), het recht op inzage (art. 15 AVG), het recht op rectificatie (art. 16 AVG) en het recht op gegevenswissing (art. 17 AVG).
 
-Deze rechten kan de betrokkene inroepen tegenover de zogenoemde ‘verwerkingsverantwoordelijke’, dat is de organisatie die het doel en de middelen van de gegevensverwerking bepaalt.
+Deze rechten kan de betrokkene inroepen tegenover de zogenoemde ‘verwerkingsverantwoordelijke’, dat is de organisatie die het doel en de middelen van de dataverwerking bepaalt.
 
-Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop gegevens gelogd moeten worden. Belangrijke notitie is dat er geen extra gegevens mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsgegevens worden gelogd.
+Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop data gelogd moeten worden. Belangrijke notitie is dat er geen extra data mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsdata worden gelogd.
 
-### Recht op informatie (bij verzamelen persoonsgegevens)
+### Recht op informatie (bij verzamelen persoonsdata)
 
 De informatie die een verwerkingsverantwoordelijke moet aanleveren op basis van het recht op informatie (ex. artikel 13 en 14 AVG) dient uit eigen beweging door verwerkingsverantwoordelijke te worden aangeleverd aan de betrokkene. Voor de andere rechten geldt dat deze uitgaan van een verzoek van betrokkene.
 
 ### Actieve informatieplicht (recht op informatie bij verzamelen, art. 13 en 14 AVG)
 
-Een verwerkingsverantwoordelijke is verplicht een betrokkene te informeren over wat ze doet met de persoonsgegevens van betrokkene.
+Een verwerkingsverantwoordelijke is verplicht een betrokkene te informeren over wat ze doet met de persoonsdata van betrokkene.
 
-**Gegevens direct afkomstig van betrokkene zelf (art. 13 AVG)**  
-Als de gegevens van betrokkene zelf afkomstig zijn, dan moet de informatie worden gegeven voordat de betrokkene de gegevens verstrekt. De verwerkingsverantwoordelijke moet kunnen aantonen dat een betrokkene actief is geïnformeerd. De informatieplicht geldt niet in het geval dat de betrokkene al op de hoogte is van alle informatie. Dit moet een organisatie zeker weten om zich hierop te mogen beroepen en om dat te kunnen aantonen, moet de organisatie dit vastleggen.
+**Data direct afkomstig van betrokkene zelf (art. 13 AVG)**  
+Als de data van betrokkene zelf afkomstig zijn, dan moet de informatie worden gegeven voordat de betrokkene de data verstrekt. De verwerkingsverantwoordelijke moet kunnen aantonen dat een betrokkene actief is geïnformeerd. De informatieplicht geldt niet in het geval dat de betrokkene al op de hoogte is van alle informatie. Dit moet een organisatie zeker weten om zich hierop te mogen beroepen en om dat te kunnen aantonen, moet de organisatie dit vastleggen.
 
-**Gegevens niet direct afkomstig van betrokkene (art. 14 AVG)**  
-Als de gegevens niet afkomstig zijn van de betrokkene zelf, maar van een andere organisatie, dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de gegevens zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsgegevens zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de gegevens aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsgegevens voor het eerst worden verstrekt.
+**Data niet direct afkomstig van betrokkene (art. 14 AVG)**  
+Als de data niet afkomstig zijn van de betrokkene zelf, maar van een andere organisatie, dan moet de betrokkene ook worden geïnformeerd. De manier waarop hangt af van hoe groot de groep mensen is waarvan de data zijn doorgekregen en wat de meest adequate manier is om te informeren. Gaat het om een kleine groep mensen, dan moet de organisatie ieder van deze betrokkenen persoonlijk informeren. Bij een grote groep is het voldoende als de organisatie informatie geeft via bijvoorbeeld een krant of online middel. Maar dan moet de organisatie wel iedereen van de groep bereiken. Als de persoonsdata zullen worden gebruikt voor communicatie met de betrokkene, moet de informatie worden gegeven uiterlijk op het moment van het eerste contact met de betrokkene; of indien verstrekking van de data aan een andere ontvanger wordt overwogen, uiterlijk op het tijdstip waarop de persoonsdata voor het eerst worden verstrekt.
 
-Als de persoonsgegevens niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsgegevens vandaan komen.
+Als de persoonsdata niet direct afkomstig zijn van betrokkene, kan het zijn dat het onevenredig veel inspanning kost om de betrokkene te bereiken. Bijvoorbeeld indien het adres van betrokkene achterhaald moet worden. De verwerkingsverantwoordelijke moet dan wel vastleggen waar de betreffende persoonsdata vandaan komen.
 
 Ook hiervoor geldt dat de verwerkingsverantwoordelijke dit moet kunnen aantonen, en dus vastleggen.
 
 ### Inzagerecht (art. 15 AVG)
 
-Iedereen heeft recht op inzage in de persoonsgegevens die organisaties over hen verwerken. De verzoeker heeft bij een inzageverzoek in principe recht op alle persoonsgegevens die worden verwerkt, waaronder persoonsgegevens in registraties, maar ook persoonsgegevens in correspondentie, zoals e-mails. De overheidsorganisatie moet daarbij inzage bieden in de doelen waarvoor de gegevens worden verwerkt (de wettelijke taken), aan welke (soorten) organisaties de persoonsgegevens zijn doorgegeven, hoe gegevens verzameld zijn en lang deze worden bewaard. Ook moet de organisatie inzicht bieden in of de persoonsgegevens gebruikt worden voor automatische besluitvorming, wat de logica daarvan is en welke gevolgen dat heeft.
+Iedereen heeft recht op inzage in de persoonsdata die organisaties over hen verwerken. De verzoeker heeft bij een inzageverzoek in principe recht op alle persoonsdata die worden verwerkt, waaronder persoonsdata in registraties, maar ook persoonsdata in correspondentie, zoals e-mails. De overheidsorganisatie moet daarbij inzage bieden in de doelen waarvoor de data worden verwerkt (de wettelijke taken), aan welke (soorten) organisaties de persoonsdata zijn doorgegeven, hoe data verzameld zijn en lang deze worden bewaard. Ook moet de organisatie inzicht bieden in of de persoonsdata gebruikt worden voor automatische besluitvorming, wat de logica daarvan is en welke gevolgen dat heeft.
 
-Om dit inzicht in concrete gevallen te kunnen bieden is het nodig dat de verwerkingen van de specifieke persoonsgegevens van de betrokkenen gelogd worden. Let op: het gaat hierbij om de verwerkingen die ten aanzien van gegevens zijn uitgevoerd.
+Om dit inzicht in concrete gevallen te kunnen bieden is het nodig dat de verwerkingen van de specifieke persoonsdata van de betrokkenen gelogd worden. Let op: het gaat hierbij om de verwerkingen die ten aanzien van data zijn uitgevoerd.
 
 ### Correctierecht
 
-Een betrokkene heeft het recht om gegevens die niet (meer) kloppen te corrigeren. Ook heeft de betrokkene het recht om de gegevens aan te laten vullen wanneer deze incompleet zijn. Het gaat dus om het recht op het corrigeren van incorrecte of incomplete gegevens. 
+Een betrokkene heeft het recht om data die niet (meer) kloppen te corrigeren. Ook heeft de betrokkene het recht om de data aan te laten vullen wanneer deze incompleet zijn. Het gaat dus om het recht op het corrigeren van incorrecte of incomplete data. 
 
-Om te kunnen vaststellen of gegevens (niet) kloppen, dient vastgesteld te zijn wat de kwaliteit van de gegevens is (welke controles zijn uitgevoerd). En indien aan de orde, wat de herkomst van de gegevens is (van welke organisaties zij de gegevens verkregen, op welk moment, en welke controles zijn gedaan). De conclusie van de vaststelling kan ook zijn dat de correctie niet wordt doorgevoerd.
+Om te kunnen vaststellen of data (niet) kloppen, dient vastgesteld te zijn wat de kwaliteit van de data is (welke controles zijn uitgevoerd). En indien aan de orde, wat de herkomst van de data is (van welke organisaties zij de data verkregen, op welk moment, en welke controles zijn gedaan). De conclusie van de vaststelling kan ook zijn dat de correctie niet wordt doorgevoerd.
 
-Om dit te kunnen doen is het nodig dat de verwerkingshandelingen worden vastgelegd. Om deze wijze kunnen ook (doorwerkende) gevolgen van de onjuiste gegevens worden gecorrigeerd.
+Om dit te kunnen doen is het nodig dat de verwerkingshandelingen worden vastgelegd. Om deze wijze kunnen ook (doorwerkende) gevolgen van de onjuiste data worden gecorrigeerd.
 
-De verwerkingsverantwoordelijke moet, indien er redenen zijn om gegevens te wijzigen, ook eventuele ontvangers van de gegevens (andere organisaties waaraan de gegevens zijn verstrekt) informeren over de wijziging (kennisgevingsplicht). Om dit te kunnen doen moet de verwerkingsverantwoordelijke weten aan welke organisatie en op welk moment gegevens zijn verstrekt. Deze gegevens zullen dan ook gelogd moeten worden.
+De verwerkingsverantwoordelijke moet, indien er redenen zijn om data te wijzigen, ook eventuele ontvangers van de data (andere organisaties waaraan de data zijn verstrekt) informeren over de wijziging (kennisgevingsplicht). Om dit te kunnen doen moet de verwerkingsverantwoordelijke weten aan welke organisatie en op welk moment data zijn verstrekt. Deze data zal dan ook gelogd moeten worden.
 
-In de sectorspecifieke wetgeving omtrent een openbaar register zijn bepalingen opgenomen over correctie van gegevens. In zo’n geval zal in de betreffende wetgeving gekeken moeten worden hoe correctie doorgevoerd kan worden. [zie ook het recht op rectificatie]( https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-rectificatie)
+In de sectorspecifieke wetgeving omtrent een openbaar register zijn bepalingen opgenomen over correctie van data. In zo’n geval zal in de betreffende wetgeving gekeken moeten worden hoe correctie doorgevoerd kan worden. [zie ook het recht op rectificatie]( https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-rectificatie)
 
 Dit correctierecht is van groot belang in het kader van het herstel van dienstverlening en de bestrijding van identiteitsdiefstal.
 
@@ -65,12 +65,12 @@ Dit correctierecht is van groot belang in het kader van het herstel van dienstve
 **Zwaar(der)wegende algemene belangen**  
 De rechten van betrokkenen gelden niet als er een zwaarwegend belang is om niet te informeren, bijvoorbeeld om strafbare feiten te voorkomen of om de vrijheden van anderen te beschermen. Dit is mogelijk als wordt voldaan aan een van de uitzonderingen uit artikel 41 UAVG. Dit betreft situaties waarin (kort samengevat) nationale/openbare veiligheid of de opsporing van strafbare feiten zwaarder moet wegen. 
 
-Om te kunnen weten of er (mogelijk) sprake is van een algemeen belang dat zwaarder moet wegen dan het belang van de betrokkene op informatie, dient de verwerkingsverantwoordelijke dit te kunnen achterhalen. Dit houdt in dat de situatie waarin daar mogelijk sprake van kan zijn, zoals verstrekking van gegevens aan bijvoorbeeld een opsporingsinstanties, voor de verwerkingsverantwoordelijke herleidbaar moet zijn. Dit betekent dat dit op enige manier moet zijn vastgelegd.
+Om te kunnen weten of er (mogelijk) sprake is van een algemeen belang dat zwaarder moet wegen dan het belang van de betrokkene op informatie, dient de verwerkingsverantwoordelijke dit te kunnen achterhalen. Dit houdt in dat de situatie waarin daar mogelijk sprake van kan zijn, zoals verstrekking van data aan bijvoorbeeld een opsporingsinstanties, voor de verwerkingsverantwoordelijke herleidbaar moet zijn. Dit betekent dat dit op enige manier moet zijn vastgelegd.
 
 Ook moet de verwerkingsverantwoordelijke kunnen vaststellen of er – bijvoorbeeld door tijdsverloop - nog wel reden is om de beperking op informatie te handhaven, of dat het belang niet meer aan de orde is (bijvoorbeeld als een strafrechtelijk onderzoek is afgerond).
 
 **Zwaar(der) wegende belangen van betrokkene of rechten van anderen**  
-Het kan voorkomen dat persoonsgegevens van een betrokkene, als deze ter inzage worden aangeboden, ook informatie over een ander persoon (een derde) bevat, en deze derde daardoor in zijn recht of vrijheid kan worden aangetast, bijvoorbeeld in het geval van informatie over een verblijfplaats. Het kan dan in voorkomende gevallen noodzakelijk zijn om informatie dan niet aan een betrokkene ter inzage te bieden.
+Het kan voorkomen dat persoonsdata van een betrokkene, als deze ter inzage worden aangeboden, ook informatie over een ander persoon (een derde) bevat, en deze derde daardoor in zijn recht of vrijheid kan worden aangetast, bijvoorbeeld in het geval van informatie over een verblijfplaats. Het kan dan in voorkomende gevallen noodzakelijk zijn om informatie dan niet aan een betrokkene ter inzage te bieden.
 
 Echter, om deze afweging te kunnen maken zal nodig zijn dat is vastgelegd of daarvan sprake zou kunnen zijn. Dit is bijvoorbeeld het geval als informatie is verstrekt aan of verkregen is van instanties die zich bezighouden met de uitvoering of het waarborgen van beschermende maatregelen.
 
@@ -78,9 +78,9 @@ Echter, om deze afweging te kunnen maken zal nodig zijn dat is vastgelegd of daa
 
 Als er sprake is van een datalek, dan moet dat bij de Autoriteit Persoonsgegevens (AP) gemeld worden. In sommige gevallen moet ook informatie verstrekt worden aan betrokkenen.
 
-Bij een datalek gaat het om toegang tot persoonsgegevens zonder dat dit mag of zonder dat dit de bedoeling is, waarbij de oorzaak een inbreuk op de beveiliging van deze gegevens is. Ook het ongewenst vernietigen, verliezen, wijzigen of verstrekken van persoonsgegevens door zo’n inbreuk valt onder een datalek.
+Bij een datalek gaat het om toegang tot persoonsgegevens zonder dat dit mag of zonder dat dit de bedoeling is, waarbij de oorzaak een inbreuk op de beveiliging van deze data is. Ook het ongewenst vernietigen, verliezen, wijzigen of verstrekken van persoonsdata door zo’n inbreuk valt onder een datalek.
 
-De verplichtingen ten aanzien van een datalek veronderstellen dat een organisatie maatregelen heeft genomen om te kunnen constateren dat een datalek heeft plaatsgevonden, wanneer dat heeft plaatsgevonden en welke (onrechtmatige) verwerkingen van persoonsgegevens dat tot gevolg heeft gehad. Dit betekent dat het doorbreken van beveiligingsmaatregelen dient te worden gelogd, en ook de verwerkingshandelingen die ten aanzien van de persoonsgegevens hebben plaatsgevonden. Organisaties dienen maatregelen te treffen om ingeval van problemen deze zo snel mogelijk te kunnen herkennen, en in het verlengde daarvan, ook te kunnen herstellen. Ook dit vergt dat wordt vastgelegd welke gegevens op welk moment zijn verwerkt, ontvangen, verstrekt, et cetera. Op deze wijze kunnen organisaties in gevallen waarbij voor betrokkene mogelijk ook schade kan ontstaan, daarmee rekening houden en zo nodig maatregelen treffen.
+De verplichtingen ten aanzien van een datalek veronderstellen dat een organisatie maatregelen heeft genomen om te kunnen constateren dat een datalek heeft plaatsgevonden, wanneer dat heeft plaatsgevonden en welke (onrechtmatige) verwerkingen van persoonsdata dat tot gevolg heeft gehad. Dit betekent dat het doorbreken van beveiligingsmaatregelen dient te worden gelogd, en ook de verwerkingshandelingen die ten aanzien van de persoonsgegevens hebben plaatsgevonden. Organisaties dienen maatregelen te treffen om ingeval van problemen deze zo snel mogelijk te kunnen herkennen, en in het verlengde daarvan, ook te kunnen herstellen. Ook dit vergt dat wordt vastgelegd welke data op welk moment zijn verwerkt, ontvangen, verstrekt, et cetera. Op deze wijze kunnen organisaties in gevallen waarbij voor betrokkene mogelijk ook schade kan ontstaan, daarmee rekening houden en zo nodig maatregelen treffen.
 
 ## Zorgvuldigheidsverplichtingen
 
@@ -90,15 +90,15 @@ Bij het verkeer tussen bestuursorganen en burgers, vormen de algemene beginselen
 
 ### Zorgvuldige voorbereiding en belangenafweging
 
-Bestuursorganen dienen besluiten zorgvuldig voor te bereiden. Bij de voorbereiding van besluiten worden vaak (persoons)gegevens van burgers en bedrijven gebruikt. Verder zijn die gegevens vaak afkomstig van veel verschillende instanties. Bij de aanvraag van een parkeervergunning komen er bijvoorbeeld gegevens over de wijk waarin je woont uit de BRP en komen er gegevens over de auto die je bezit uit het kentekenregister. Ook moeten bestuursorganen zorgvuldig alle betrokken belangen afwegen. Hierbij mogen de gevolgen voor een specifieke persoon (of groep) niet onevenredig zijn. Ook om deze afweging zorgvuldig te kunnen maken, verwerkt de overheid (persoons)gegevens.
+Bestuursorganen dienen besluiten zorgvuldig voor te bereiden. Bij de voorbereiding van besluiten worden vaak (persoons)data van burgers en bedrijven gebruikt. Verder zijn die data vaak afkomstig van veel verschillende instanties. Bij de aanvraag van een parkeervergunning komen er bijvoorbeeld data over de wijk waarin je woont uit de BRP en komen er data over de auto die je bezit uit het kentekenregister. Ook moeten bestuursorganen zorgvuldig alle betrokken belangen afwegen. Hierbij mogen de gevolgen voor een specifieke persoon (of groep) niet onevenredig zijn. Ook om deze afweging zorgvuldig te kunnen maken, verwerkt de overheid (persoons)data.
 
 ### Motiveringsbeginsel
 
-Verder dient een bestuursorgaan een besluit goed te motiveren. Burgers en bedrijven moeten kunnen weten welke factoren hebben meegewogen bij het nemen van een besluit. Dit gaat om welke argumenten zijn gebruikt, en welke juridische grondslagen het besluit op is gebaseerd, maar ook om welke gegevens de basis vormen voor het besluit.
+Verder dient een bestuursorgaan een besluit goed te motiveren. Burgers en bedrijven moeten kunnen weten welke factoren hebben meegewogen bij het nemen van een besluit. Dit gaat om welke argumenten zijn gebruikt, en welke juridische grondslagen het besluit op is gebaseerd, maar ook om welke data de basis vormen voor het besluit.
 
 ### De beginselen in de context van verwerkingenlogging
 
-In de context van verwerkingenlogging is het van belang om de hierboven genoemde beginselen in samenhang te bezien. Het goed kunnen voldoen aan een van de verplichtingen, is noodzakelijk voor het voldoen aan de andere. Chronologisch wordt een besluit eerst zorgvuldig voorbereid, waarbij alle betrokken belangen zorgvuldig worden afgewogen en onevenredig benadeelde groepen niet uit het oog worden verloren. De motivering gebeurt gedurende het gehele proces, en vormt een volledige en betrouwbare reconstructie wanneer het proces is afgerond. Een gestandaardiseerde manier van verwerkingenlogging ondersteunt dit hele proces. Tijdens de voorbereiding van een besluit wordt goed bijgehouden welke gegevens worden gebruikt, waar ze vandaan komen en voor welke reden ze zijn opgevraagd. Zo is achteraf altijd goed duidelijk hoe een besluit tot stand is gekomen en kan het bestuursorgaan dit altijd goed motiveren. Verwerkingenlogging helpt de bestuursorganen om zich goed te kunnen verantwoorden.
+In de context van verwerkingenlogging is het van belang om de hierboven genoemde beginselen in samenhang te bezien. Het goed kunnen voldoen aan een van de verplichtingen, is noodzakelijk voor het voldoen aan de andere. Chronologisch wordt een besluit eerst zorgvuldig voorbereid, waarbij alle betrokken belangen zorgvuldig worden afgewogen en onevenredig benadeelde groepen niet uit het oog worden verloren. De motivering gebeurt gedurende het gehele proces, en vormt een volledige en betrouwbare reconstructie wanneer het proces is afgerond. Een gestandaardiseerde manier van verwerkingenlogging ondersteunt dit hele proces. Tijdens de voorbereiding van een besluit wordt goed bijgehouden welke data worden gebruikt, waar ze vandaan komen en voor welke reden ze zijn opgevraagd. Zo is achteraf altijd goed duidelijk hoe een besluit tot stand is gekomen en kan het bestuursorgaan dit altijd goed motiveren. Verwerkingenlogging helpt de bestuursorganen om zich goed te kunnen verantwoorden.
 
 ## Informatiebeveiligingsverplichtingen
 
@@ -116,7 +116,7 @@ Deze informatie is nodig om in geval van problemen, deze tijdig te kunnen herken
 
 ### Toegangsbeveiliging en beheer
 
-Toegangsbeveiliging en het beheer van toegang is een algemeen beginsel dat voor alle gegevensverzamelingen en gegevensuitwisseling cruciaal is. Het vormt de basis van het vertrouwen in de overheid en het spreekt voor zich dat dezelfde strenge wetten, regels, standaarden en normen die van toepassing zijn op de gegevens zelf en de uitwisseling van gegevens ook van toepassing zijn op de logs (en back-ups) die er zijn van de gegevens. Ook hiervoor geldt dat de standaard in principe niet de BIO logging afdekt, maar hierbij wel kan helpen.
+Toegangsbeveiliging en het beheer van toegang is een algemeen beginsel dat voor alle dataverzamelingen en datauitwisseling cruciaal is. Het vormt de basis van het vertrouwen in de overheid en het spreekt voor zich dat dezelfde strenge wetten, regels, standaarden en normen die van toepassing zijn op de gegevens zelf en de uitwisseling van gegevens ook van toepassing zijn op de logs (en back-ups) die er zijn van de gegevens. Ook hiervoor geldt dat de standaard in principe niet de BIO logging afdekt, maar hierbij wel kan helpen.
 
 ## Verantwoordingsbehoeften van toezichthouders
 

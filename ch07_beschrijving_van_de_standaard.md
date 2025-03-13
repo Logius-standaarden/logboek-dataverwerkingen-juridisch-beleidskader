@@ -20,7 +20,7 @@ Organisaties hebben taken toebedeeld gekregen. Om deze taken uit te voeren is he
 
 De standaard schrijft voor dat deze per taak als “verwerkingsactiviteit” worden onderkend. Om de verschillende taken uit te voeren heeft een organisatie in de regel meerdere verwerkingsactiviteiten onderkend.
 
-De standaard schrijft voor dat deze verwerkingsactiviteiten in een “register” moeten worden opgenomen. Daarin wordt onder meer het doel van de verwerkingen opgenomen, zoals dit bijvoorbeeld op grond van de AVG voor verwerkingen van persoonsgegevens al verplicht is. Registers in het kader van de standaard beoogen een bredere reikwijdte dan persoonsdata.
+De standaard schrijft voor dat deze verwerkingsactiviteiten in een “register” moeten worden opgenomen. Daarin wordt onder meer het doel van de verwerkingen opgenomen, zoals dit bijvoorbeeld op grond van de AVG voor verwerkingen van persoonsdata al verplicht is. Registers in het kader van de standaard beoogen een bredere reikwijdte dan persoonsdata.
 
 Vervolgens schrijft de standaard voor dat binnen de onderkende verwerkingsactiviteiten “dataverwerkingen” worden gelogd. Dit gebeurt door iedere applicatie die een dataverwerking uitvoert, op gestandaardiseerde manier een logregel te laten vastleggen in een Logboek dataverwerkingen.
 

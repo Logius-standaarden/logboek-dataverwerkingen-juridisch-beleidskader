@@ -10,9 +10,7 @@ var respecConfig = {
   title: "Juridisch Beleidskader - Logboek Dataverwerking",
 
   edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/",
-  
-  // previousPublishVersion: "(none)",
-  // content: {"ch01": "informative", "ch02": "", "mermaid": ""},
+
   editors:
     [
       {
@@ -38,12 +36,17 @@ var respecConfig = {
       {
         name: "Nil Barua",
         company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        companyURL: "https://logius.nl",
       },
       {
         name: "Martin van der Plas",
         company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        companyURL: "https://logius.nl",
+      },
+      {
+        name: "Tim van der Lippe",
+        company: "Logius",
+        companyURL: "https://logius.nl",
       }
     ],
   authors:
@@ -59,7 +62,7 @@ var respecConfig = {
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       }
     ],
-  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen",
+  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader",
 
 
   // Create PDF and link to file in header (optional):

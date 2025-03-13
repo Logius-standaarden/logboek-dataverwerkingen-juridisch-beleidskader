@@ -24,7 +24,7 @@ De standaard schrijft voor dat deze verwerkingsactiviteiten in een “register�
 
 Vervolgens schrijft de standaard voor dat binnen de onderkende verwerkingsactiviteiten “dataverwerkingen” worden gelogd. Dit gebeurt door iedere applicatie die een dataverwerking uitvoert, op gestandaardiseerde manier een logregel te laten vastleggen in een Logboek dataverwerkingen.
 
-De handelingen die worden gelogd kunnen alle handelingen betreffen die met gegevens plaatsvinden.
+De handelingen die worden gelogd kunnen alle handelingen betreffen die met data plaatsvinden.
 
 Elke dataverwerking wordt apart gelogd en krijgt een kenmerk (“trace”) toegekend, waardoor bij elkaar horende dataverwerkingen binnen de grenzen van een systeem worden gegroepeerd en kunnen worden gerelateerd. Dit betekent dat de handelingen die ten behoeve van een specifieke taak (context) zijn uitgevoerd aan elkaar te relateren zijn, en daarmee **te verantwoorden** zijn.
 

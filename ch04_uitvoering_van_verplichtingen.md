@@ -54,7 +54,7 @@ Om te kunnen vaststellen of data (niet) kloppen, dient vastgesteld te zijn wat d
 
 Om dit te kunnen doen is het nodig dat de verwerkingshandelingen worden vastgelegd. Om deze wijze kunnen ook (doorwerkende) gevolgen van de onjuiste data worden gecorrigeerd.
 
-De verwerkingsverantwoordelijke moet, indien er redenen zijn om data te wijzigen, ook eventuele ontvangers van de data (andere organisaties waaraan de data zijn verstrekt) informeren over de wijziging (kennisgevingsplicht). Om dit te kunnen doen moet de verwerkingsverantwoordelijke weten aan welke organisatie en op welk moment data zijn verstrekt. Deze gegevens zullen dan ook gelogd moeten worden.
+De verwerkingsverantwoordelijke moet, indien er redenen zijn om data te wijzigen, ook eventuele ontvangers van de data (andere organisaties waaraan de data zijn verstrekt) informeren over de wijziging (kennisgevingsplicht). Om dit te kunnen doen moet de verwerkingsverantwoordelijke weten aan welke organisatie en op welk moment data zijn verstrekt. Deze data zal dan ook gelogd moeten worden.
 
 In de sectorspecifieke wetgeving omtrent een openbaar register zijn bepalingen opgenomen over correctie van data. In zo’n geval zal in de betreffende wetgeving gekeken moeten worden hoe correctie doorgevoerd kan worden. [zie ook het recht op rectificatie]( https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/privacyrechten-avg/recht-op-rectificatie)
 

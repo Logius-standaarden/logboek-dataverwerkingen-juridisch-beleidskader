@@ -6,16 +6,16 @@ Leidende principes bij gebruik en inrichting van de standaard
 
 Eigen verantwoordelijkheid:
 
-1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)gegevens. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van gegevens gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is. Dit betekent dat er een samenhang moet zijn tussen registers waarin verwerkingsactiviteiten benoemd (zoals het RvA, (art. 30 AVG) of het Algoritmeregister kan worden herleid waarop de verwerking van gegevens betrekking heeft.
-2. Enkel de gegevens die voor verantwoording nodig zijn worden vastgelegd.
-
+1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)data. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van data gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is. Dit betekent dat er een samenhang moet zijn tussen registers waarin verwerkingsactiviteiten benoemd (zoals het RvA, (art. 30 AVG) of het Algoritmeregister kan worden herleid waarop de verwerking van data betrekking heeft.
+2. Enkel de data die voor verantwoording nodig zijn worden vastgelegd.
+3. 
 Basis + extensies:
 
 3. Ongeacht de verschillen in (taken van) overheidsorganisaties vindt de verantwoording van het loggen van verwerkingen middels de standaard Logboek dataverwerkingen op eenduidige wijze plaats. Organisaties en sectoren die de standaard gebruiken, kunnen deze aanvullen met (zelf ontwikkelde) specifieke extensies. Organisaties en sectoren die dit doen moeten deze extensie conform het beheerproces van de standaard laten vaststellen. Dit ter voorkoming van dialecten binnen de standaard. Het vaststellen van de extensie verloopt via de organisatie die de standaard beheerd.
 
 Logging van informatieketens:
 
-4. Bij het loggen van de verwerking van gegevens in ketens is elke overheidsorganisatie verantwoordelijk voor haar eigen deel van de keten met als afbakening de ontvangst van gegevens van (een) ketenpartner(s) en het verstrekken van gegevens aan (een) andere ketenpartner(s) of het nemen van het besluit. Door het uniformeren van de logging kunnen gegevensvraag en gegevenslevering aan elkaar gerelateerd worden. Hierbij worden door gebruik van de standaard Logboek dataverwerkingen afspraken gemaakt over de relateerbaarheid en herkenbaarheid van transacties.
+4. Bij het loggen van de verwerking van data in ketens is elke overheidsorganisatie verantwoordelijk voor haar eigen deel van de keten met als afbakening de ontvangst van data van (een) ketenpartner(s) en het verstrekken van data aan (een) andere ketenpartner(s) of het nemen van het besluit. Door het uniformeren van de logging kunnen datavraag en datalevering aan elkaar gerelateerd worden. Hierbij worden door gebruik van de standaard Logboek dataverwerkingen afspraken gemaakt over de relateerbaarheid en herkenbaarheid van transacties.
 
 Wettelijke informatieverplichtingen:
 
@@ -30,4 +30,4 @@ Zwaarder wegende belangen:
 
 ## Toepassing van de standaard ten behoeve van reguliere processen:
 
-8. Neem ten aanzien van de l de gecreëerde logging het het kader van de verantwoording alle wettelijke randvoorwaarden zoals beschreven in het beleidskader in acht en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan informatiebeveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie).
+8. Neem ten aanzien van de gecreëerde logging het kader van de verantwoording alle wettelijke randvoorwaarden zoals beschreven in het beleidskader in acht en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan informatiebeveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie).

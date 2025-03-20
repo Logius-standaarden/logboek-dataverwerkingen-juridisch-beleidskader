@@ -6,7 +6,7 @@ Leidende principes bij gebruik en inrichting van de standaard
 
 Eigen verantwoordelijkheid:
 
-1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)data. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van data gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is. Dit betekent dat er een samenhang moet zijn tussen registers waarin verwerkingsactiviteiten benoemd (zoals het RvA, (art. 30 AVG) of het Algoritmeregister kan worden herleid waarop de verwerking van data betrekking heeft.
+1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)data. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van data gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is. Dit betekent dat er een samenhang moet zijn tussen registers waarin verwerkingsactiviteiten worden benoemd, zoals het RvA, (art. 30 AVG) of het Algoritmeregister. Met deze registers kan worden herleid waarop de verwerking van data betrekking heeft.
 2. Enkel de data die voor verantwoording nodig zijn worden vastgelegd.
 
 Basis + extensies:

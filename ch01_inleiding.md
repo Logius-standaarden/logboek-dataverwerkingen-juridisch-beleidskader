@@ -61,7 +61,7 @@ Dit geldt op alle niveaus van informatieverwerking. Het dient inzichtelijk te zi
 Wettelijk is geregeld welke informatie – zeker daar waar het persoonsdata betreft – overheden voor de uitvoering van hun taken mogen verwerken.
 Welke informatie dat is, zal per overheidsorganisatie verschillen. Immers, hun taken verschillen, en de informatie om deze taken uit te voeren ook.
 
-Deze zin zou ik aanpassen (in rood weghalen, in blauw toevoegen): “Iedere overheidsorganisatie dient, te verantwoorden dat informatie binnen de grenzen van het toepasselijke wettelijk kader is verwerkt. Voor de verwerking van persoonsdata geldt dat hiervoor een geldige grondslag aanwezig is. Ook dient de overheid aan te tonen dat voldaan is aan verplichtingen die gelden, bijvoorbeeld ten aanzien van de verwerking of beveiliging van persoonsdata en de vertrouwelijkheid van bedrijfsinformatie.
+Iedere overheidsorganisatie dient, te verantwoorden dat informatie binnen de grenzen van het toepasselijke wettelijk kader is verwerkt. Voor de verwerking van persoonsdata geldt dat hiervoor een geldige grondslag aanwezig is. Ook dient de overheid aan te tonen dat voldaan is aan verplichtingen die gelden, bijvoorbeeld ten aanzien van de verwerking of beveiliging van persoonsdata en de vertrouwelijkheid van bedrijfsinformatie.
 
 ## Belang van goede verantwoording en verbetering daarvan
 

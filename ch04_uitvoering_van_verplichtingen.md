@@ -88,6 +88,10 @@ De verplichtingen ten aanzien van een datalek veronderstellen dat een organisati
 
 Bij het verkeer tussen bestuursorganen en burgers, vormen de algemene beginselen van behoorlijk bestuur een belangrijk fundament. Deze deels geschreven, deels ongeschreven algemene rechtsbeginselen zijn gedragsregels voor de overheid. Ze gaan bijvoorbeeld over de manier waarop de overheid besluiten neemt, maar ook op overig handelen van de overheid zijn ze in principe van toepassing (art. 3:1, tweede lid, Awb). Voorbeelden van deze beginselen zijn de beginselen van zorgvuldige voorbereiding en belangenafweging (art. 3:2 respectievelijk art. 3:4 Awb) en het motiveringsbeginsel van besluiten (art. 3:46 Awb).
 
+### Belanghebbenden: burgers en bedrijven
+
+Voor de toepassing van de Awb is het begrip belanghebbende van belang. Een belanghebbende is iemand die direct belang heeft bij de beslissing. Dit kunnen natuurlijke, maar ook rechtspersonen zijn. Dit betekent dat de zorgvuldigheidsnormen, zoals deugdelijke motivering van besluiten en informatieverstrekking daarbij, ook richting rechtspersonen (bedrijven en organisaties) geldt.
+
 ### Zorgvuldige voorbereiding en belangenafweging
 
 Bestuursorganen dienen besluiten zorgvuldig voor te bereiden. Bij de voorbereiding van besluiten worden vaak (persoons)data van burgers en bedrijven gebruikt. Verder zijn die data vaak afkomstig van veel verschillende instanties. Bij de aanvraag van een parkeervergunning komen er bijvoorbeeld data over de wijk waarin je woont uit de BRP en komen er data over de auto die je bezit uit het kentekenregister. Ook moeten bestuursorganen zorgvuldig alle betrokken belangen afwegen. Hierbij mogen de gevolgen voor een specifieke persoon (of groep) niet onevenredig zijn. Ook om deze afweging zorgvuldig te kunnen maken, verwerkt de overheid (persoons)data.

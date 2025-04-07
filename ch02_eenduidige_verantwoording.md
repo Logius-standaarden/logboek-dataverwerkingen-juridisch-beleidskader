@@ -4,7 +4,7 @@
 
 ### Verschillen in verantwoordelijkheden, taken
 
-Overheidsorganisaties zijn er in alle soorten en maten. Zo verschilt de Belastingdienst van DUO of de RDW, en verschillen dergelijke organisaties weer van gemeenten.
+Overheidsorga+++nisaties zijn er in alle soorten en maten. Zo verschilt de Belastingdienst van DUO of de RDW, en verschillen dergelijke organisaties weer van gemeenten.
 
 Dat komt omdat overheidsorganisaties verschillende taken en verantwoordelijkheden toebedeeld hebben gekregen. Er zijn wel groepen organisaties, zoals gemeenten, die vanwege de vergelijkbare taakuitoefening en organisatie-inrichting veel overeenkomstige kenmerken zullen hebben. Echter, overheidsbreed zullen er verschillen zijn.
 

@@ -1,13 +1,12 @@
 var respecConfig = {
-  useLogo: true,
-  useLabel: true,
   specStatus: "WV",
   specType: "PR",
-  pubDomain: "api",
-  shortName: "logboek_juridisch",
+  pubDomain: "logboek",
+  shortName: "juridisch",
   publishDate: "2024-12-13",
   publishVersion: "0.8.3",
-  title: "Juridisch Beleidskader - Logboek Dataverwerking",
+  // TODO: verwijder voor publicatie
+  latestVersion: "https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/",
 
   edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/",
 

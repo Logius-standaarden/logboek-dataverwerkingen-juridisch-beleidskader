@@ -1,12 +1,12 @@
 # Inleiding
 
-Dit Juridisch beleidskader biedt het overzicht van de (juridische) verantwoording die de overheid over haar handelen moet afleggen en is opgesteld ten behoeve van de Logboek Dataverwerkingen standaard. Er wordt toegelicht hoe de standaard vanuit het denken over verantwoording is opgebouwd. Het doel daarvan is dat het Logboek Dataverwerkingen een basis biedt om te zorgen dat de overheid precies de data logt die zij nodig heeft om verantwoording af te leggen over haar taken. Niet meer, maar ook niet minder. En om te zorgen dat organisaties data zodanig loggen dat zij zich niet alleen over een eigen handelen kunnen verantwoorden, maar ook over hun gezamenlijk handelen als “de overheid”.
+Dit Juridisch beleidskader biedt het overzicht van de (juridische) verantwoording die de overheid over haar handelen moet afleggen en is opgesteld ten behoeve van ontwikkeling van de Logboek Dataverwerkingen standaard. Er wordt toegelicht hoe de standaard vanuit het denken over verantwoording is opgebouwd. Het doel daarvan is dat het Logboek Dataverwerkingen een basis biedt om te zorgen dat de overheid precies de data logt die zij nodig heeft om verantwoording af te leggen over haar taken. Niet meer, maar ook niet minder. En om te zorgen dat organisaties data zodanig loggen dat zij zich niet alleen over een eigen handelen kunnen verantwoorden, maar ook over hun gezamenlijk handelen als “de overheid”.
 
 ## Scope van dit verantwoordingsdocument
 
 Dit document beschrijft de wijze waarop de overheid zich moet verantwoorden in brede zin en de informatie die daarvoor beschikbaar moet zijn. De standaard beoogt – initieel – niet alle aspecten te adresseren, maar biedt wel de basis om te zorgen dat **eenduidigheid en relateerbaarheid** van (log)informatie geborgd is. Deze aspecten bepalen de scope van dit document.
 
-Dit document en - de standaard – staan daarin (bewust) neutraal ten opzichte de termijnen die gelden voor het bewaren van logging. Deze termijnen kunnen en zullen verschillen afhankelijk van taak en doel waarvoor zij beschikbaar moeten blijven. Dit document gaat hierop daarom niet in. De standaard biedt wel een manier om hiermee om te gaan (profiel).
+Dit document en - de standaard – staan daarin (bewust) neutraal ten opzichte de termijnen die gelden voor het bewaren van logging. Deze termijnen kunnen en zullen verschillen afhankelijk van taak en doel van de betreffende overheden waarvoor zij beschikbaar moeten blijven. Dit document gaat hierop daarom niet in. De standaard biedt wel een manier om hiermee om te gaan (profiel).
 
 Dit geldt bijvoorbeeld ook voor het bewaren van data in het kader van de archiefwet. De logging die voorhanden is kan daarvoor gebruikt worden, maar dit document heeft geen oordeel over de vraag óf data in het kader van de archiefwet bewaard dienen te blijven, noch voor de termijn daarvan.
 

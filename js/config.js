@@ -6,9 +6,9 @@ var respecConfig = {
   publishDate: "2024-12-13",
   publishVersion: "0.8.3",
   // TODO: verwijder voor publicatie
-  latestVersion: "https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/",
+  latestVersion: "https://logius-standaarden.github.io/logboek-dataverwerkingen-juridisch-beleidskader/",
 
-  edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/",
+  edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen-juridisch-beleidskader/",
 
   editors:
     [
@@ -61,14 +61,14 @@ var respecConfig = {
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       }
     ],
-  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader",
+  github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen-juridisch-beleidskader",
 
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [
       {
           label: "pdf",
-          uri: "Juridisch_Beleidskader-Logboek_Dataverwerking.pdf",
+          uri: "logboek-dataverwerkingen-juridisch-beleidskader.pdf",
       },
   ],
   postProcess: [window.respecMermaid.createFigures]

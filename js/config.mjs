@@ -1,4 +1,6 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   specStatus: "WV",
   specType: "PR",
   pubDomain: "logboek",
@@ -64,13 +66,11 @@ var respecConfig = {
     ],
   github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen-juridisch-beleidskader",
 
-
   // Create PDF and link to file in header (optional):
   alternateFormats: [
-      {
-          label: "pdf",
-          uri: "logboek-dataverwerkingen-juridisch-beleidskader.pdf",
-      },
+    {
+      label: "pdf",
+      uri: "logboek-dataverwerkingen-juridisch-beleidskader.pdf",
+    },
   ],
-  postProcess: [window.respecMermaid.createFigures]
-};
+});

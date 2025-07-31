@@ -31,3 +31,5 @@ Zwaarder wegende belangen:
 ## Toepassing van de standaard ten behoeve van reguliere processen:
 
 8. Neem ten aanzien van de gecreëerde logging het kader van de verantwoording alle wettelijke randvoorwaarden zoals beschreven in het beleidskader in acht en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan informatiebeveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie).
+
+9. Dienstverlening gaat altijd door ook als de standaard om welke reden dan ook niet kan voldoen aan de logging van verwerkingen. De organisatie die de standaard inzet neemt voor de meest precaire processen maatregelen om, **indien nodig geacht**, nadien (handmatig) de logging te completeren.

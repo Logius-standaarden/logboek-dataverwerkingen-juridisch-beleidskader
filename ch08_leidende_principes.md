@@ -6,7 +6,7 @@ Leidende principes bij gebruik en inrichting van de standaard
 
 Eigen verantwoordelijkheid:
 
-1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerd verwerking van (persoons)data. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van data gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, de logs en de informatie die erin te vinden is. Dit betekent dat er een samenhang moet zijn tussen registers waarin verwerkingsactiviteiten worden benoemd, zoals het RvA, (art. 30 AVG) of het Algoritmeregister. Met deze registers kan worden herleid waarop de verwerking van data betrekking heeft.
+1. Iedere overheidsorganisatie verantwoordt zich vanuit goed openbaar bestuur op basis van de verwerkingsgrondslagen die zijn toegekend en toegespitst op de vervulling van de eigen taak, over de door haar zelf uitgevoerde verwerking van (persoons)data. Overheidsorganisaties die gebruik maken van de standaard Logboek dataverwerkingen om de verwerking van data gestandaardiseerd te loggen zijn zelf verantwoordelijk voor implementatie en inrichting van de standaard, risico-afwegingen van gebruik, de logs en de informatie die erin te vinden is. Dit betekent dat er een samenhang moet zijn tussen registers waarin verwerkingsactiviteiten worden benoemd, zoals het RvA, (art. 30 AVG) of het Algoritmeregister. Met deze registers kan worden herleid waarop de verwerking van data betrekking heeft.
 2. Enkel de data die voor verantwoording nodig zijn worden vastgelegd.
 
 Basis + extensies:
@@ -30,6 +30,6 @@ Zwaarder wegende belangen:
 
 ## Toepassing van de standaard ten behoeve van reguliere processen:
 
-8. Neem ten aanzien van de gecreëerde logging het kader van de verantwoording alle wettelijke randvoorwaarden zoals beschreven in het beleidskader in acht en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan informatiebeveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie).
+8. Neem ten aanzien van de inzet van de standaard en de gecreëerde logging het kader van de verantwoording alle wettelijke randvoorwaarden zoals beschreven in het beleidskader in acht en pas alle relevante processen en maatregelen die daarop anderszins van toepassing zijn, ook hierop toe (denk aan risico-afwegingen, informatiebeveiliging, datalekken, pseudonimisering, correspondentie, inzage, correctie).
 
 9. Dienstverlening gaat altijd door ook als de standaard om welke reden dan ook niet kan voldoen aan de logging van verwerkingen. De organisatie die de standaard inzet neemt voor de meest precaire processen maatregelen om, **indien nodig geacht**, nadien (handmatig) de logging te completeren.

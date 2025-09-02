@@ -65,12 +65,4 @@ loadRespecWithConfiguration({
       }
     ],
   github: "https://github.com/Logius-standaarden/logboek-dataverwerkingen-juridisch-beleidskader",
-
-  // Create PDF and link to file in header (optional):
-  alternateFormats: [
-    {
-      label: "pdf",
-      uri: "logboek-dataverwerkingen-juridisch-beleidskader.pdf",
-    },
-  ],
 });

@@ -8,9 +8,9 @@ Dit is noodzakelijk voor (interne) verantwoording aan bijvoorbeeld toezichthoude
 
 ## Kaders voor logging tussen organisaties onderling
 
-Het uitgangspunt is dat overheidsorganisaties burgers en bedrijven niet naar de bekende weg vragen. Er geldt dat informatie die reeds bij de overheid beschikbaar is niet opnieuw aan burgers wordt gevraagd. Dit betekent in veel gevallen dat overheidsorganisaties gebruik (moeten) maken van elkaars informatie en daarop moeten kunnen vertrouwen.
+Een belangrijk beleidsmatig uitgangspunt is dat overheidsorganisaties burgers en bedrijven niet naar de bekende weg vragen. Er geldt dat informatie die reeds bij de overheid beschikbaar is in principe niet opnieuw aan burgers wordt gevraagd. Dit betekent in veel gevallen dat overheidsorganisaties gebruik (moeten) maken van elkaars informatie en daarop moeten kunnen vertrouwen.
 
-Om te kunnen aantonen dat ze besluiten zorgvuldig en met de juiste informatie hebben genomen, dienen organisaties daarom vast te leggen welke informatie zij op welk moment van welke organisatie hebben verkregen. Vice versa vergt dit dat bij de organisatie die heeft geleverd wordt bijgehouden aan welke andere organisaties is geleverd, zodat verantwoording volledig kan worden teruggeleid naar de bron van de informatie.
+Om te kunnen aantonen dat overheidsorganisaties besluiten zorgvuldig en met de juiste informatie hebben genomen, dienen ze daarom vast te leggen welke informatie zij op welk moment van welke organisatie hebben verkregen. Vice versa vergt dit dat bij de organisatie die heeft geleverd wordt bijgehouden aan welke andere organisaties is geleverd, zodat verantwoording volledig kan worden teruggeleid naar de bron van de informatie.
 
 Dit vergt dat de handelingen worden gelogd, en dat afspraken worden gemaakt om te zorgen dat de logging over overheidsorganisaties heen adequaat is vormgegeven om reproductie overheidsbreed mogelijk te maken.
 
@@ -24,4 +24,4 @@ Met logging in het kader van dit document wordt de logging bedoeld die nodig is 
 
 ## Tussenconclusie
 
-Voor een goed inrichting van logging als verantwoordingsmogelijkheid is het van belang dat binnen organisaties logging op eenduidige wijze – conceptueel – wordt ingericht. Daarnaast is het van belang dat de wijzen van vastlegging van handelingen ten aanzien van informatie adequaat op elkaar aansluiten.
+Voor een goede inrichting van logging als verantwoordingsmogelijkheid is het van belang dat binnen organisaties logging op eenduidige wijze – conceptueel – wordt ingericht. Daarnaast is het van belang dat de wijzen van vastlegging van handelingen ten aanzien van informatie adequaat op elkaar aansluiten.

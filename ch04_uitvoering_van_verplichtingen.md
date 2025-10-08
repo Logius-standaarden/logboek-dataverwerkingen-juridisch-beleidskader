@@ -2,15 +2,15 @@
 
 ## Overheidsbreed verantwoorden is samenwerken
 
-Organisaties hebben informatie nodig van elkaar om zichzelf te kunnen verantwoorden. 
+Organisaties hebben informatie nodig van elkaar om zichzelf te kunnen verantwoorden.
 
-In de eerste plaats dienen zij zelf vast te leggen welke handelingen zij verrichten bij het nemen van besluiten of het uitvoeren van feitelijke handelingen. 
+In de eerste plaats dienen zij zelf vast te leggen welke handelingen zij verrichten bij het nemen van besluiten of het uitvoeren van feitelijke handelingen.
 
-Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de “verstrekkende” organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de “datavraag” en de “datalevering” als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
+Daarnaast zullen zij vastleggen welke informatie zij op welk moment van een andere overheidsorganisatie (de "verstrekkende" organisaties) hebben ontvangen om een bepaald besluit te nemen. Eenduidige logging kan helpen bij de uitvoering van verschillende plichten, door te zorgen dat de verstrekkende organisatie op dezelfde wijze de verstrekking logt. Zo zijn de "datavraag" en de "datalevering" als dat nodig is te koppelen en te verantwoorden. Deze verplichtingen kaderen de logging en daarmee de standaardisatie van logging.
 
 ## Informatieverplichtingen
 
-In het voorgaande is besproken welke data organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit “begrenst” de data waarover zij mogen beschikken.
+In het voorgaande is besproken welke data organisaties nodig hebben om hun taken uit te voeren en zich over deze taken te verantwoorden. Dit "begrenst" de data waarover zij mogen beschikken.
 
 Ten aanzien van de data waarover zij mogen beschikken in het kader van reguliere taken kunnen, naast verantwoording, nog andere verplichtingen rusten. Persoonsdata vormen een belangrijke categorie binnen de totale set aan data die voorhanden zijn. Op deze data is de AVG van toepassing. Dit betekent dat diverse informatieverplichtingen, zoals bij het inzagerecht, van toepassing zijn. Deze verplichtingen, die van invloed kunnen zijn op de wijze waarop data worden gelogd, worden hieronder besproken.
 
@@ -20,7 +20,7 @@ De AVG geeft aan betrokkenen – degenen over wie de persoonsdata gaan - verschi
 
 Deze rechten kan de betrokkene inroepen tegenover de zogenoemde ‘verwerkingsverantwoordelijke’, dat is de organisatie die het doel en de middelen van de dataverwerking bepaalt.
 
-Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop data gelogd moeten worden. Belangrijke notitie is dat er geen extra data mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsdata worden gelogd.
+Hieronder worden deze rechten kort besproken, waarbij wordt toegelicht welke invloed deze rechten hebben op de wijze waarop data gelogd moeten worden. Belangrijke notitie is dat er geen extra data mogen worden gelogd om uitvoering te geven aan deze rechten. Dat is op grond van de AVG niet toegestaan, omdat de uitvoering van de AVG op zichzelf geen extra verwerkingen mag veroorzaken. Echter, het kan wel zo zijn dat de rechten, om deze adequaat te kunnen uitvoeren, van invloed zijn op de wijze waarop de handelingen ten aanzien van persoonsdata worden gelogd.
 
 ### Recht op informatie (bij verzamelen persoonsdata)
 
@@ -48,7 +48,7 @@ Om dit inzicht in concrete gevallen te kunnen bieden is het nodig dat de verwerk
 
 ### Correctierecht
 
-Een betrokkene heeft het recht om data die niet (meer) kloppen te corrigeren. Ook heeft de betrokkene het recht om de data aan te laten vullen wanneer deze incompleet zijn. Het gaat dus om het recht op het corrigeren van incorrecte of incomplete data. 
+Een betrokkene heeft het recht om data die niet (meer) kloppen te corrigeren. Ook heeft de betrokkene het recht om de data aan te laten vullen wanneer deze incompleet zijn. Het gaat dus om het recht op het corrigeren van incorrecte of incomplete data.
 
 Om te kunnen vaststellen of data (niet) kloppen, dient vastgesteld te zijn wat de kwaliteit van de data is (welke controles zijn uitgevoerd). En indien aan de orde, wat de herkomst van de data is (van welke organisaties zij de data verkregen, op welk moment, en welke controles zijn gedaan). De conclusie van de vaststelling kan ook zijn dat de correctie niet wordt doorgevoerd.
 
@@ -63,7 +63,7 @@ Dit correctierecht is van groot belang in het kader van het herstel van dienstve
 ### Beperkingen op informatieplichten
 
 **Zwaar(der)wegende algemene belangen**  
-De rechten van betrokkenen gelden niet als er een zwaarwegend belang is om niet te informeren, bijvoorbeeld om strafbare feiten te voorkomen of om de vrijheden van anderen te beschermen. Dit is mogelijk als wordt voldaan aan een van de uitzonderingen uit artikel 41 UAVG. Dit betreft situaties waarin (kort samengevat) nationale/openbare veiligheid of de opsporing van strafbare feiten zwaarder moet wegen. 
+De rechten van betrokkenen gelden niet als er een zwaarwegend belang is om niet te informeren, bijvoorbeeld om strafbare feiten te voorkomen of om de vrijheden van anderen te beschermen. Dit is mogelijk als wordt voldaan aan een van de uitzonderingen uit artikel 41 UAVG. Dit betreft situaties waarin (kort samengevat) nationale/openbare veiligheid of de opsporing van strafbare feiten zwaarder moet wegen.
 
 Om te kunnen weten of er (mogelijk) sprake is van een algemeen belang dat zwaarder moet wegen dan het belang van de betrokkene op informatie, dient de verwerkingsverantwoordelijke dit te kunnen achterhalen. Dit houdt in dat de situatie waarin daar mogelijk sprake van kan zijn, zoals verstrekking van data aan bijvoorbeeld een opsporingsinstanties, voor de verwerkingsverantwoordelijke herleidbaar moet zijn. Dit betekent dat dit op enige manier moet zijn vastgelegd.
 
@@ -126,7 +126,7 @@ Toegangsbeveiliging en het beheer van toegang is een algemeen beginsel dat voor 
 
 ### Verantwoording over verschillende onderwerpen
 
-Het verantwoorden over hun handelen doen overheidsorganisaties niet alleen publiekelijk of in de richting van (individuele) burgers en bedrijven of zaken die hen raken. Organisaties dienen zich ook met “algemene informatie” over beleidsvorming en onderbouwing daarvan, informatie over financiën, prestaties, bedrijfsvoering en maatschappelijke verantwoordingsinformatie te verantwoorden.
+Het verantwoorden over hun handelen doen overheidsorganisaties niet alleen publiekelijk of in de richting van (individuele) burgers en bedrijven of zaken die hen raken. Organisaties dienen zich ook met "algemene informatie" over beleidsvorming en onderbouwing daarvan, informatie over financiën, prestaties, bedrijfsvoering en maatschappelijke verantwoordingsinformatie te verantwoorden.
 
 Hoewel de verantwoording hier ook vaak zal gaan over de inhoudelijke onderbouwing van gemaakte keuzes en gevoerde beleidsrichting zal het ook gaan om informatie die op geaggregeerd niveau uit de (logging) van de dagelijkse handelingen van organisaties voortvloeien. Dat geldt bijvoorbeeld voor verantwoording over de prestaties.
 
@@ -140,4 +140,4 @@ Hoewel dergelijke verantwoordingsdoelen op het eerste gezicht niet direct een re
 
 Logging die wordt vastgelegd kan vele verschillende doelen dienen, zoals de invulling van specifieke informatieverschaffing aan burgers, of de verantwoording over de zorgvuldigheid van overheidshandelen.
 
-Belangrijk is dat de conceptuele invulling van afspraken over logging zodanig wordt ingericht dat zij breed toepasbaar is, maar tegelijkertijd ruimte laat om specifieke invulling (“aanbouw”) van afspraken op specifieke doelen te ondersteunen.
+Belangrijk is dat de conceptuele invulling van afspraken over logging zodanig wordt ingericht dat zij breed toepasbaar is, maar tegelijkertijd ruimte laat om specifieke invulling ("aanbouw") van afspraken op specifieke doelen te ondersteunen.

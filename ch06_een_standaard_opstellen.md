@@ -16,29 +16,29 @@ Wat echter voor elke organisatie op dezelfde wijze kan plaatsvinden, los van de 
 
 ### Baseline voor logging voor organisaties
 
-De standaard dient daarom interoperabiliteit van logging van dataverwerkingen te realiseren, door voor een aantal loghandelingen de koppelvlakken en werkwijze voor te schrijven. Daarmee wordt de basis gelegd voor een uniforme wijze van logging door verschillende systemen in de organisatie, die relateerbaar is. 
+De standaard dient daarom interoperabiliteit van logging van dataverwerkingen te realiseren, door voor een aantal loghandelingen de koppelvlakken en werkwijze voor te schrijven. Daarmee wordt de basis gelegd voor een uniforme wijze van logging door verschillende systemen in de organisatie, die relateerbaar is.
 
 De standaard dient voorschriften te bevatten over het vastleggen van logs, over het aan elkaar relateren van deze logs en over het aan elkaar relateren van dataverwerkingen over grenzen van systemen (binnen organisaties).
 
-Op deze manier is de logging zelf “neutraal” (doel en toepassing maakt voor de logging en relateerbaarheid niet uit). De logging maakt het echter wel mogelijk om voor verschillende doelen of toepassingen te worden ingezet.
+Op deze manier is de logging zelf "neutraal" (doel en toepassing maakt voor de logging en relateerbaarheid niet uit). De logging maakt het echter wel mogelijk om voor verschillende doelen of toepassingen te worden ingezet.
 
-Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier kan een organisatie de eigen behoefte aan logging  “op maat inrichten”. Organisaties en sectoren die dit doen moeten deze extensie conform het beheerproces van de standaard laten vaststellen. Dit ter voorkoming van dialecten binnen de standaard en mogelijkheden tot breder gebruik.
+Een organisatie kan desgewenst vanuit dit vertrekpunt extensies maken op de standaard op basis van de specifieke behoefte die zij heeft. Op deze manier kan een organisatie de eigen behoefte aan logging "op maat inrichten". Organisaties en sectoren die dit doen moeten deze extensie conform het beheerproces van de standaard laten vaststellen. Dit ter voorkoming van dialecten binnen de standaard en mogelijkheden tot breder gebruik.
 
 ## Logging van informatie-uitwisseling
 
 Zoals hiervoor is besproken kunnen dataverwerkingen ten behoeve van taken verschillende verantwoordelijkheden overstijgen (en dus organisatie-overstijgend zijn). Doordat elke organisatie op basis van de standaard op dezelfde wijze én binnen de reikwijdte van de eigen organisatie logt, vallen er in de logging geen gaten en is de onderlinge verbondenheid in verantwoordelijkheden geborgd.
 
-Immers vallen onder de verantwoordelijkheid om te loggen tevens de ontvangst van data van andere overheidsorganisaties, of de data die zij aan andere organisaties geleverd hebben. Daardoor is de informatie-uitwisseling als geheel gelogd en wordt voorkomen dat “dubbele logging” ontstaat. Dat brengt naast doelmatigheid ook een beperking van de kans op fouten of strijdige logging met zich mee.
+Immers vallen onder de verantwoordelijkheid om te loggen tevens de ontvangst van data van andere overheidsorganisaties, of de data die zij aan andere organisaties geleverd hebben. Daardoor is de informatie-uitwisseling als geheel gelogd en wordt voorkomen dat "dubbele logging" ontstaat. Dat brengt naast doelmatigheid ook een beperking van de kans op fouten of strijdige logging met zich mee.
 
 ## Ketenlogging
 
-Zoals aangegeven is de logging op basis van de afspraken “neutraal”. De logging zorgt voor uniforme vastlegging door organisaties van dataverwerkingen en voor onderlinge relateerbaarheid van deze verwerkingen. De logging is dus niet gebonden aan een specifieke organisatie of aan organisaties die met elkaar samenwerkingen (“ketens”).
+Zoals aangegeven is de logging op basis van de afspraken "neutraal". De logging zorgt voor uniforme vastlegging door organisaties van dataverwerkingen en voor onderlinge relateerbaarheid van deze verwerkingen. De logging is dus niet gebonden aan een specifieke organisatie of aan organisaties die met elkaar samenwerkingen ("ketens").
 
-Het is echter mogelijk om, als een organisatie dat wil, door middel van extensies op de standaard aanvullingen te doen op de logging, of aanvullende afspraken te maken met andere overheden waarmee specifiek wordt samengewerkt. Sectorale aanvullingen binnen “samenwerkende ketens van organisaties” zijn mogelijk bovenop de basis die de standaard legt.
+Het is echter mogelijk om, als een organisatie dat wil, door middel van extensies op de standaard aanvullingen te doen op de logging, of aanvullende afspraken te maken met andere overheden waarmee specifiek wordt samengewerkt. Sectorale aanvullingen binnen "samenwerkende ketens van organisaties" zijn mogelijk bovenop de basis die de standaard legt.
 
 ## Functionele invulling
 
-Om de hiervoor besproken uitgangspunten – eenduidige wijze van logging, scope van logging en onderlinge relateerbaarheid van logging – te bereiken, zullen functionele afspraken gemaakt moeten worden. Door de functionele logging tot het niveau van relateerbaarheid te beperken betekent het ook dat de standaard in de basis deze aspecten dient te adresseren. 
+Om de hiervoor besproken uitgangspunten – eenduidige wijze van logging, scope van logging en onderlinge relateerbaarheid van logging – te bereiken, zullen functionele afspraken gemaakt moeten worden. Door de functionele logging tot het niveau van relateerbaarheid te beperken betekent het ook dat de standaard in de basis deze aspecten dient te adresseren.
 
 Dit houdt in dat voor logging afspraken moeten worden gemaakt over de identificatie van transacties en/of mutaties (deze moeten functioneel herkenbaar of afgebakend zijn om als generieke basis voor logging te kunnen dienen).
 
@@ -50,4 +50,4 @@ De technische en operationele invulling moet zodanig plaatsvinden dat de functio
 
 ## Tussenconclusie
 
-Bij de inrichting van een standaard die aan de basis ligt om verslaglegging (logging) te standaardiseren, is een belangrijk uitgangspunt dat de verantwoordelijkheid van elke organisatie als uitgangspunt wordt genomen, inclusief de grens daarvan. Dat vormt de “scope” per organisatie. Op basis daarvan kan een basis (baseline) worden afgesproken waarop kan worden voortgebouwd.
+Bij de inrichting van een standaard die aan de basis ligt om verslaglegging (logging) te standaardiseren, is een belangrijk uitgangspunt dat de verantwoordelijkheid van elke organisatie als uitgangspunt wordt genomen, inclusief de grens daarvan. Dat vormt de "scope" per organisatie. Op basis daarvan kan een basis (baseline) worden afgesproken waarop kan worden voortgebouwd.

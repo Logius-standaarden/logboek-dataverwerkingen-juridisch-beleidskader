@@ -76,7 +76,7 @@ Iedere overheidsorganisatie dient te verantwoorden dat informatie binnen de gren
 
 ## Belang van goede verantwoording en verbetering daarvan
 
-Digitalisering biedt kansen voor een efficiëntere en effectiever werkende overheid. Dat komt door de toenemende mogelijkheden om data te gebruiken om hun eigen taken beter uit te kunnen voeren en beter als één overheid samen te werken. Dienstverlening aan burgers en bedrijven kan sneller, efficiënter en meer op maat plaatsvinden.
+Digitalisering biedt kansen voor een efficiëntere en effectievere werkende overheid. Dat komt door de toenemende mogelijkheden om data te gebruiken om hun eigen taken beter uit te kunnen voeren en beter als één overheid samen te werken. Dienstverlening aan burgers en bedrijven kan sneller, efficiënter en meer op maat plaatsvinden.
 
 Aan deze mogelijkheden zit ook een andere kant, die vergt dat de overheid goed inzicht houdt – ook over organisaties heen - in hoe deze informatieverwerking en uitwisseling heeft plaatsgevonden. Dat is nodig om de steeds verder toenemende informatie-uitwisseling te kunnen verantwoorden. Maar ook om – op het moment dat zich in deze dienstverlening problemen voordoen – goed in staat te zijn om deze op te lossen. Want problemen in dienstverlening kunnen door automatisering in korte tijd ontstaan en omvangrijk worden.
 

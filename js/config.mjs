@@ -1,14 +1,20 @@
 import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
 
 loadRespecWithConfiguration({
-  specStatus: "WV",
+  specStatus: "CV",
   specType: "PR",
   pubDomain: "logboek",
   shortName: "juridisch",
-  publishDate: "2024-12-13",
-  publishVersion: "0.8.3",
+  publishDate: "2025-11-27",
+  publishVersion: "1.0.0",
   // TODO: verwijder voor publicatie
   latestVersion: "https://logius-standaarden.github.io/logboek-dataverwerkingen-juridisch-beleidskader/",
+  sotdText: {
+    nl: {
+      sotd: "Status van dit document",
+      cv: `Dit is een consultatieversie. We moedigen gebruikers aan om meldingen of suggesties aan te maken via GitHub. Mocht dit niet mogelijk zijn, dan kunt u ook een e-mail sturen naar api@logius.nl`,
+    },
+  },
   prevVersion: [],
 
   edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen-juridisch-beleidskader/",

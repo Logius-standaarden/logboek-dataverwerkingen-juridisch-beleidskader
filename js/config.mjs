@@ -1,14 +1,12 @@
 import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
 
 loadRespecWithConfiguration({
-  specStatus: "WV",
+  specStatus: "VV",
   specType: "PR",
   pubDomain: "logboek",
   shortName: "juridisch",
-  publishDate: "2024-12-13",
-  publishVersion: "0.8.3",
-  // TODO: verwijder voor publicatie
-  latestVersion: "https://logius-standaarden.github.io/logboek-dataverwerkingen-juridisch-beleidskader/",
+  publishDate: "2026-02-11",
+  publishVersion: "1.0.0",
   prevVersion: [],
 
   edDraftURI: "https://logius-standaarden.github.io/logboek-dataverwerkingen-juridisch-beleidskader/",

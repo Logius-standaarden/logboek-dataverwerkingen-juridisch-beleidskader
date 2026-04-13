@@ -1,11 +1,11 @@
 import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
 
 loadRespecWithConfiguration({
-  specStatus: "VV",
+  specStatus: "DEF",
   specType: "PR",
   pubDomain: "logboek",
   shortName: "juridisch",
-  publishDate: "2026-02-11",
+  publishDate: "2026-04-09",
   publishVersion: "1.0.0",
   prevVersion: [],
 
